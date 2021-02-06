@@ -89,6 +89,8 @@
         "url": "/api/subclasses/berserker"
       }
     ],
+    "spellcasting": {},
+    "spells": "/api/classes/barbarian/spells",
     "url": "/api/classes/barbarian"
   },
   {
@@ -634,6 +636,8 @@
         "url": "/api/subclasses/champion"
       }
     ],
+    "spellcasting": {},
+    "spells": "/api/classes/fighter/spells",
     "url": "/api/classes/fighter"
   },
   {
@@ -868,6 +872,8 @@
         "url": "/api/subclasses/open-hand"
       }
     ],
+    "spellcasting": {},
+    "spells": "/api/classes/monk/spells",
     "url": "/api/classes/monk"
   },
   {
@@ -1188,6 +1194,8 @@
         "url": "/api/subclasses/thief"
       }
     ],
+    "spellcasting": {},
+    "spells": "/api/classes/rogue/spells",
     "url": "/api/classes/rogue"
   },
   {
