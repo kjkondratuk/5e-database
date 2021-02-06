@@ -71,6 +71,7 @@
     },
     "languages": "Deep Speech, telepathy 120 ft.",
     "challenge_rating": 10,
+    "xp": 5900,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -241,6 +242,7 @@
     },
     "languages": "any one language (usually Common)",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Spellcasting",
@@ -248,9 +250,9 @@
         "spellcasting": {
           "level": 1,
           "ability": {
-            "index": "5",
+            "index": "wis",
             "name": "WIS",
-            "url": "/api/ability-scores/5"
+            "url": "/api/ability-scores/wis"
           },
           "dc": 12,
           "modifier": 4,
@@ -395,6 +397,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 14,
+    "xp": 11500,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -648,6 +651,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 16,
+    "xp": 15000,
     "special_abilities": [
       {
         "name": "Legendary Resistance",
@@ -913,6 +917,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 13,
+    "xp": 10000,
     "special_abilities": [
       {
         "name": "Legendary Resistance",
@@ -1150,6 +1155,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 15,
+    "xp": 13000,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -1424,6 +1430,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 14,
+    "xp": 11500,
     "special_abilities": [
       {
         "name": "Legendary Resistance",
@@ -1702,6 +1709,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 17,
+    "xp": 18000,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -1998,6 +2006,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 15,
+    "xp": 13000,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -2251,6 +2260,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 17,
+    "xp": 18000,
     "special_abilities": [
       {
         "name": "Legendary Resistance",
@@ -2567,6 +2577,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 16,
+    "xp": 15000,
     "special_abilities": [
       {
         "name": "Legendary Resistance",
@@ -2830,6 +2841,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 13,
+    "xp": 10000,
     "special_abilities": [
       {
         "name": "Ice Walk",
@@ -3077,6 +3089,7 @@
     },
     "languages": "Auran",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "Air Form",
@@ -3209,6 +3222,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 21,
+    "xp": 33000,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -3462,6 +3476,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 23,
+    "xp": 50000,
     "actions": [
       {
         "name": "Multiattack",
@@ -3708,6 +3723,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 20,
+    "xp": 25000,
     "special_abilities": [
       {
         "name": "Legendary Resistance",
@@ -3982,6 +3998,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 22,
+    "xp": 41000,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -4260,6 +4277,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 21,
+    "xp": 33000,
     "special_abilities": [
       {
         "name": "Legendary Resistance",
@@ -4542,6 +4560,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 24,
+    "xp": 62000,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -4842,6 +4861,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 22,
+    "xp": 41000,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -5095,6 +5115,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 24,
+    "xp": 62000,
     "special_abilities": [
       {
         "name": "Legendary Resistance",
@@ -5359,6 +5380,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 23,
+    "xp": 50000,
     "special_abilities": [
       {
         "name": "Legendary Resistance",
@@ -5626,6 +5648,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 20,
+    "xp": 25000,
     "special_abilities": [
       {
         "name": "Ice Walk",
@@ -5899,6 +5922,7 @@
     },
     "languages": "Common, Sphinx",
     "challenge_rating": 17,
+    "xp": 18000,
     "special_abilities": [
       {
         "name": "Inscrutable",
@@ -5914,9 +5938,9 @@
         "spellcasting": {
           "level": 12,
           "ability": {
-            "index": "5",
+            "index": "wis",
             "name": "WIS",
-            "url": "/api/ability-scores/5"
+            "url": "/api/ability-scores/wis"
           },
           "dc": 18,
           "modifier": 10,
@@ -6186,6 +6210,7 @@
     },
     "languages": "",
     "challenge_rating": 1,
+    "xp": 200,
     "special_abilities": [
       {
         "name": "Antimagic Susceptibility",
@@ -6263,6 +6288,7 @@
     },
     "languages": "",
     "challenge_rating": 2,
+    "xp": 250,
     "actions": [
       {
         "name": "Bite",
@@ -6302,9 +6328,9 @@
         "damage": [
           {
             "damage_type": {
-              "index": "bludgeoning",
-              "name": "Bludgeoning",
-              "url": "/api/damage-types/bludgeoning"
+              "index": "acid",
+              "name": "Acid",
+              "url": "/api/damage-types/acid"
             },
             "damage_dice": "3d6"
           }
@@ -6360,6 +6386,7 @@
     },
     "languages": "",
     "challenge_rating": 0.5,
+    "xp": 100,
     "actions": [
       {
         "name": "Multiattack",
@@ -6475,6 +6502,7 @@
     },
     "languages": "any six languages",
     "challenge_rating": 12,
+    "xp": 8400,
     "special_abilities": [
       {
         "name": "Magic Resistance",
@@ -6486,9 +6514,9 @@
         "spellcasting": {
           "level": 18,
           "ability": {
-            "index": "4",
+            "index": "int",
             "name": "INT",
-            "url": "/api/ability-scores/4"
+            "url": "/api/ability-scores/int"
           },
           "dc": 17,
           "modifier": 9,
@@ -6508,6 +6536,7 @@
           "spells": [
             {
               "name": "Disguise Self",
+              "level": 1,
               "url": "/api/spells/disguise-self",
               "usage": {
                 "type": "at will"
@@ -6515,6 +6544,7 @@
             },
             {
               "name": "Invisibility",
+              "level": 2,
               "url": "/api/spells/invisibility",
               "usage": {
                 "type": "at will"
@@ -6559,7 +6589,7 @@
               "name": "Mage Armor",
               "level": 1,
               "url": "/api/spells/mage-armor",
-              "note": "Cast on self before combat"
+              "notes": "Cast on self before combat"
             },
             {
               "name": "Magic Missile",
@@ -6610,7 +6640,7 @@
               "name": "Stoneskin",
               "level": 4,
               "url": "/api/spells/stoneskin",
-              "note": "Cast on self before combat"
+              "notes": "Cast on self before combat"
             },
             {
               "name": "Cone of Cold",
@@ -6641,7 +6671,7 @@
               "name": "Mind Blank",
               "level": 8,
               "url": "/api/spells/mind-blank",
-              "note": "Cast on self before combat"
+              "notes": "Cast on self before combat"
             },
             {
               "name": "Time Stop",
@@ -6749,6 +6779,7 @@
     },
     "languages": "Thieves' cant plus any two languages",
     "challenge_rating": 8,
+    "xp": 3900,
     "special_abilities": [
       {
         "name": "Assassinate",
@@ -6876,6 +6907,7 @@
     },
     "languages": "one language known by its creator",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "False Appearance",
@@ -6930,6 +6962,7 @@
     },
     "languages": "one language known by its creator",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "False Appearance",
@@ -6984,6 +7017,7 @@
     },
     "languages": "",
     "challenge_rating": 0.25,
+    "xp": 50,
     "actions": [
       {
         "name": "Beak",
@@ -7047,6 +7081,7 @@
     },
     "languages": "Ignan",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Heated Body",
@@ -7138,6 +7173,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "Pack Tactics",
@@ -7194,6 +7230,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "Keen Smell",
@@ -7293,6 +7330,7 @@
     },
     "languages": "Abyssal, telepathy 120 ft.",
     "challenge_rating": 19,
+    "xp": 22000,
     "special_abilities": [
       {
         "name": "Death Throes",
@@ -7452,6 +7490,7 @@
     },
     "languages": "any one language (usually Common)",
     "challenge_rating": 0.125,
+    "xp": 25,
     "actions": [
       {
         "name": "Scimitar",
@@ -7556,6 +7595,7 @@
     },
     "languages": "any two languages",
     "challenge_rating": 2,
+    "xp": 450,
     "actions": [
       {
         "name": "Multiattack",
@@ -7720,6 +7760,7 @@
     },
     "languages": "Infernal, telepathy 120 ft.",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "Barbed Hide",
@@ -7852,6 +7893,7 @@
     },
     "languages": "",
     "challenge_rating": 3,
+    "xp": 700,
     "special_abilities": [
       {
         "name": "Petrifying Gaze",
@@ -7925,6 +7967,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "Echolocation",
@@ -8018,6 +8061,7 @@
     },
     "languages": "Infernal, telepathy 120 ft.",
     "challenge_rating": 3,
+    "xp": 700,
     "special_abilities": [
       {
         "name": "Devil's Sight",
@@ -8135,6 +8179,7 @@
     },
     "languages": "Draconic",
     "challenge_rating": 11,
+    "xp": 7200,
     "actions": [
       {
         "name": "Multiattack",
@@ -8269,6 +8314,7 @@
     },
     "languages": "any one language (usually Common)",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Reckless",
@@ -8324,6 +8370,7 @@
     },
     "languages": "",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Keen Smell",
@@ -8467,6 +8514,7 @@
     },
     "languages": "Draconic",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -8590,6 +8638,7 @@
     },
     "languages": "",
     "challenge_rating": 4,
+    "xp": 1100,
     "special_abilities": [
       {
         "name": "Amorphous",
@@ -8693,6 +8742,7 @@
     },
     "languages": "Blink Dog, understands Sylvan but can't speak it",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Keen Hearing and Smell",
@@ -8766,6 +8816,7 @@
     },
     "languages": "",
     "challenge_rating": 0.125,
+    "xp": 25,
     "special_abilities": [
       {
         "name": "Keen Sight",
@@ -8877,6 +8928,7 @@
     },
     "languages": "Draconic",
     "challenge_rating": 3,
+    "xp": 700,
     "actions": [
       {
         "name": "Bite",
@@ -8961,6 +9013,7 @@
     },
     "languages": "",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Charge",
@@ -9085,6 +9138,7 @@
     },
     "languages": "Infernal, telepathy 120 ft.",
     "challenge_rating": 12,
+    "xp": 8400,
     "special_abilities": [
       {
         "name": "Devil's Sight",
@@ -9240,6 +9294,7 @@
     },
     "languages": "Draconic",
     "challenge_rating": 1,
+    "xp": 100,
     "actions": [
       {
         "name": "Bite",
@@ -9390,6 +9445,7 @@
     },
     "languages": "Draconic",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -9503,6 +9559,7 @@
     },
     "languages": "",
     "challenge_rating": 1,
+    "xp": 200,
     "special_abilities": [
       {
         "name": "Keen Smell",
@@ -9611,6 +9668,7 @@
     },
     "languages": "Common, Goblin",
     "challenge_rating": 1,
+    "xp": 200,
     "special_abilities": [
       {
         "name": "Brute",
@@ -9696,6 +9754,7 @@
     },
     "languages": "",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "Standing Leap",
@@ -9754,6 +9813,7 @@
     },
     "languages": "",
     "challenge_rating": 0.125,
+    "xp": 25,
     "actions": [
       {
         "name": "Bite",
@@ -9820,6 +9880,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "Keen Smell",
@@ -9899,6 +9960,7 @@
     },
     "languages": "Elvish, Sylvan",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Charge",
@@ -10056,6 +10118,7 @@
     },
     "languages": "Infernal, telepathy 120 ft.",
     "challenge_rating": 8,
+    "xp": 3900,
     "special_abilities": [
       {
         "name": "Devil's Sight",
@@ -10164,6 +10227,7 @@
     },
     "languages": "understands Draconic but can't speak",
     "challenge_rating": 6,
+    "xp": 2300,
     "actions": [
       {
         "name": "Multiattack",
@@ -10191,19 +10255,19 @@
             [
               {
                 "name": "Fire Breath",
-                "note": "When Fire Breath is available",
+                "notes": "When Fire Breath is available",
                 "count": 1,
                 "type": "ability"
               },
               {
                 "name": "Horns",
-                "note": "When Fire Breath is available",
+                "notes": "When Fire Breath is available",
                 "count": 1,
                 "type": "melee"
               },
               {
                 "name": "Claws",
-                "note": "When Fire Breath is available",
+                "notes": "When Fire Breath is available",
                 "count": 1,
                 "type": "melee"
               }
@@ -10211,19 +10275,19 @@
             [
               {
                 "name": "Bite",
-                "note": "When Fire Breath is available",
+                "notes": "When Fire Breath is available",
                 "count": 1,
                 "type": "melee"
               },
               {
                 "name": "Fire Breath",
-                "note": "When Fire Breath is available",
+                "notes": "When Fire Breath is available",
                 "count": 1,
                 "type": "ability"
               },
               {
                 "name": "Claws",
-                "note": "When Fire Breath is available",
+                "notes": "When Fire Breath is available",
                 "count": 1,
                 "type": "melee"
               }
@@ -10353,6 +10417,7 @@
     },
     "languages": "understands Deep Speech but can't speak",
     "challenge_rating": 4,
+    "xp": 1100,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -10380,13 +10445,13 @@
             [
               {
                 "name": "Pincer",
-                "note": "When chuul is grappling",
+                "notes": "When chuul is grappling",
                 "count": 2,
                 "type": "melee"
               },
               {
                 "name": "Tentacles",
-                "note": "When chuul is grappling",
+                "notes": "When chuul is grappling",
                 "count": 1,
                 "type": "melee"
               }
@@ -10491,6 +10556,7 @@
     },
     "languages": "understands the languages of its creator but can't speak",
     "challenge_rating": 9,
+    "xp": 5000,
     "special_abilities": [
       {
         "name": "Acid Absorption",
@@ -10597,6 +10663,7 @@
     },
     "languages": "Deep Speech, Undercommon",
     "challenge_rating": 8,
+    "xp": 3900,
     "special_abilities": [
       {
         "name": "Damage Transfer",
@@ -10757,6 +10824,7 @@
     },
     "languages": "Common, Giant",
     "challenge_rating": 9,
+    "xp": 5000,
     "special_abilities": [
       {
         "name": "Keen Smell",
@@ -10775,6 +10843,7 @@
           "spells": [
             {
               "name": "Detect Magic",
+              "level": 1,
               "url": "/api/spells/detect-magic",
               "usage": {
                 "type": "at will"
@@ -10782,6 +10851,7 @@
             },
             {
               "name": "Fog Cloud",
+              "level": 1,
               "url": "/api/spells/fog-cloud",
               "usage": {
                 "type": "at will"
@@ -10789,6 +10859,7 @@
             },
             {
               "name": "Light",
+              "level": 0,
               "url": "/api/spells/light",
               "usage": {
                 "type": "at will"
@@ -10796,6 +10867,7 @@
             },
             {
               "name": "Feather Fall",
+              "level": 1,
               "url": "/api/spells/feather-fall",
               "usage": {
                 "type": "per day",
@@ -10804,6 +10876,7 @@
             },
             {
               "name": "Fly",
+              "level": 3,
               "url": "/api/spells/fly",
               "usage": {
                 "type": "per day",
@@ -10812,6 +10885,7 @@
             },
             {
               "name": "Misty Step",
+              "level": 2,
               "url": "/api/spells/misty-step",
               "usage": {
                 "type": "per day",
@@ -10820,6 +10894,7 @@
             },
             {
               "name": "Telekinesis",
+              "level": 5,
               "url": "/api/spells/telekinesis",
               "usage": {
                 "type": "per day",
@@ -10828,6 +10903,7 @@
             },
             {
               "name": "Control Weather",
+              "level": 8,
               "url": "/api/spells/control-weather",
               "usage": {
                 "type": "per day",
@@ -10836,6 +10912,7 @@
             },
             {
               "name": "Gaseous Form",
+              "level": 3,
               "url": "/api/spells/gaseous-form",
               "usage": {
                 "type": "per day",
@@ -10927,6 +11004,7 @@
     },
     "languages": "",
     "challenge_rating": 0.5,
+    "xp": 100,
     "actions": [
       {
         "name": "Bite",
@@ -10975,6 +11053,7 @@
     },
     "languages": "any one language (usually Common)",
     "challenge_rating": 0,
+    "xp": 10,
     "actions": [
       {
         "name": "Club",
@@ -11025,6 +11104,7 @@
     },
     "languages": "",
     "challenge_rating": 0.25,
+    "xp": 50,
     "actions": [
       {
         "name": "Bite",
@@ -11141,6 +11221,7 @@
     },
     "languages": "Draconic",
     "challenge_rating": 1,
+    "xp": 200,
     "actions": [
       {
         "name": "Bite",
@@ -11268,6 +11349,7 @@
     },
     "languages": "all, telepathy 120 ft.",
     "challenge_rating": 4,
+    "xp": 1100,
     "special_abilities": [
       {
         "name": "Innate Spellcasting",
@@ -11283,6 +11365,7 @@
           "spells": [
             {
               "name": "Detect Evil and Good",
+              "level": 1,
               "url": "/api/spells/detect-evil-and-good",
               "usage": {
                 "type": "at will"
@@ -11290,6 +11373,7 @@
             },
             {
               "name": "Detect Magic",
+              "level": 1,
               "url": "/api/spells/detect-magic",
               "usage": {
                 "type": "at will"
@@ -11297,6 +11381,7 @@
             },
             {
               "name": "Detect Thoughts",
+              "level": 2,
               "url": "/api/spells/detect-thoughts",
               "usage": {
                 "type": "at will"
@@ -11304,6 +11389,7 @@
             },
             {
               "name": "Bless",
+              "level": 1,
               "url": "/api/spells/bless",
               "usage": {
                 "type": "per day",
@@ -11312,6 +11398,7 @@
             },
             {
               "name": "Create Food and Water",
+              "level": 3,
               "url": "/api/spells/create-food-and-water",
               "usage": {
                 "type": "per day",
@@ -11320,6 +11407,7 @@
             },
             {
               "name": "Cure Wounds",
+              "level": 1,
               "url": "/api/spells/cure-wounds",
               "usage": {
                 "type": "per day",
@@ -11328,6 +11416,7 @@
             },
             {
               "name": "Lesser Restoration",
+              "level": 2,
               "url": "/api/spells/lesser-restoration",
               "usage": {
                 "type": "per day",
@@ -11336,6 +11425,7 @@
             },
             {
               "name": "Protection from Poison",
+              "level": 2,
               "url": "/api/spells/protection-from-poison",
               "usage": {
                 "type": "per day",
@@ -11344,6 +11434,7 @@
             },
             {
               "name": "Sanctuary",
+              "level": 1,
               "url": "/api/spells/sanctuary",
               "usage": {
                 "type": "per day",
@@ -11352,6 +11443,7 @@
             },
             {
               "name": "Shield",
+              "level": 1,
               "url": "/api/spells/shield",
               "usage": {
                 "type": "per day",
@@ -11360,6 +11452,7 @@
             },
             {
               "name": "Dream",
+              "level": 5,
               "url": "/api/spells/dream",
               "usage": {
                 "type": "per day",
@@ -11368,6 +11461,7 @@
             },
             {
               "name": "Greater Restoration",
+              "level": 5,
               "url": "/api/spells/greater-restoration",
               "usage": {
                 "type": "per day",
@@ -11376,6 +11470,7 @@
             },
             {
               "name": "Scrying",
+              "level": 5,
               "url": "/api/spells/scrying",
               "usage": {
                 "type": "per day",
@@ -11472,6 +11567,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -11536,6 +11632,7 @@
     },
     "languages": "",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Hold Breath",
@@ -11615,6 +11712,7 @@
     },
     "languages": "any one language (usually Common)",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Dark Devotion",
@@ -11626,9 +11724,9 @@
         "spellcasting": {
           "level": 4,
           "ability": {
-            "index": "5",
+            "index": "wis",
             "name": "WIS",
-            "url": "/api/ability-scores/5"
+            "url": "/api/ability-scores/wis"
           },
           "dc": 11,
           "modifier": 3,
@@ -11656,27 +11754,27 @@
             },
             {
               "name": "Command",
-              "level": 0,
+              "level": 1,
               "url": "/api/spells/command"
             },
             {
               "name": "Inflict Wounds",
-              "level": 0,
+              "level": 1,
               "url": "/api/spells/inflict-wounds"
             },
             {
               "name": "Shield of Faith",
-              "level": 0,
+              "level": 1,
               "url": "/api/spells/shield-of-faith"
             },
             {
               "name": "Hold Person",
-              "level": 0,
+              "level": 2,
               "url": "/api/spells/hold-person"
             },
             {
               "name": "Spiritual Weapon",
-              "level": 0,
+              "level": 2,
               "url": "/api/spells/spiritual-weapon"
             }
           ]
@@ -11764,6 +11862,7 @@
     },
     "languages": "any one language (usually Common)",
     "challenge_rating": 0.125,
+    "xp": 25,
     "special_abilities": [
       {
         "name": "Dark Devotion",
@@ -11829,6 +11928,7 @@
     },
     "languages": "",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Echolocation",
@@ -11913,6 +12013,7 @@
     },
     "languages": "",
     "challenge_rating": 1,
+    "xp": 200,
     "special_abilities": [
       {
         "name": "Two-Headed",
@@ -12009,6 +12110,7 @@
     },
     "languages": "Gnomish, Terran, Undercommon",
     "challenge_rating": 0.5,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Stone Camouflage",
@@ -12032,6 +12134,7 @@
           "spells": [
             {
               "name": "Nondetection",
+              "level": 3,
               "notes": "Self only",
               "url": "/api/spells/nondetection",
               "usage": {
@@ -12040,6 +12143,7 @@
             },
             {
               "name": "Blindness/Deafness",
+              "level": 2,
               "url": "/api/spells/blindness-deafness",
               "usage": {
                 "type": "per day",
@@ -12048,6 +12152,7 @@
             },
             {
               "name": "Blur",
+              "level": 2,
               "url": "/api/spells/blur",
               "usage": {
                 "type": "per day",
@@ -12056,6 +12161,7 @@
             },
             {
               "name": "Disguise Self",
+              "level": 1,
               "url": "/api/spells/disguise-self",
               "usage": {
                 "type": "per day",
@@ -12129,6 +12235,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "actions": [
       {
         "name": "Bite",
@@ -12231,6 +12338,7 @@
     },
     "languages": "all, telepathy 120 ft.",
     "challenge_rating": 10,
+    "xp": 5900,
     "special_abilities": [
       {
         "name": "Angelic Weapons",
@@ -12250,6 +12358,7 @@
           "spells": [
             {
               "name": "Detect Evil and Good",
+              "level": 1,
               "url": "/api/spells/detect-evil-and-good",
               "usage": {
                 "type": "at will"
@@ -12257,6 +12366,7 @@
             },
             {
               "name": "Commune",
+              "level": 5,
               "url": "/api/spells/commune",
               "usage": {
                 "type": "per day",
@@ -12265,6 +12375,7 @@
             },
             {
               "name": "Raise Dead",
+              "level": 5,
               "url": "/api/spells/raise-dead",
               "usage": {
                 "type": "per day",
@@ -12380,6 +12491,7 @@
     },
     "languages": "",
     "challenge_rating": 1,
+    "xp": 200,
     "special_abilities": [
       {
         "name": "Keen Hearing and Smell",
@@ -12465,6 +12577,7 @@
     },
     "languages": "Auran",
     "challenge_rating": 11,
+    "xp": 7200,
     "special_abilities": [
       {
         "name": "Elemental Demise",
@@ -12485,6 +12598,7 @@
           "spells": [
             {
               "name": "Detect Evil and Good",
+              "level": 1,
               "url": "/api/spells/detect-evil-and-good",
               "usage": {
                 "type": "at will"
@@ -12492,6 +12606,7 @@
             },
             {
               "name": "Detect Magic",
+              "level": 1,
               "url": "/api/spells/detect-magic",
               "usage": {
                 "type": "at will"
@@ -12499,6 +12614,7 @@
             },
             {
               "name": "Thunderwave",
+              "level": 1,
               "url": "/api/spells/thunderwave",
               "usage": {
                 "type": "at will"
@@ -12506,6 +12622,7 @@
             },
             {
               "name": "Create Food and Water",
+              "level": 3,
               "notes": "Can create wine instead of water",
               "url": "/api/spells/create-food-and-water",
               "usage": {
@@ -12515,6 +12632,7 @@
             },
             {
               "name": "Tongues",
+              "level": 3,
               "url": "/api/spells/tongues",
               "usage": {
                 "type": "per day",
@@ -12523,6 +12641,7 @@
             },
             {
               "name": "Wind Walk",
+              "level": 6,
               "url": "/api/spells/wind-walk",
               "usage": {
                 "type": "per day",
@@ -12531,6 +12650,7 @@
             },
             {
               "name": "Conjure Elemental",
+              "level": 5,
               "notes": "Air Elemental Only",
               "url": "/api/spells/conjure-elemental",
               "usage": {
@@ -12540,6 +12660,7 @@
             },
             {
               "name": "Creation",
+              "level": 5,
               "url": "/api/spells/creation",
               "usage": {
                 "type": "per day",
@@ -12548,6 +12669,7 @@
             },
             {
               "name": "Gaseous Form",
+              "level": 3,
               "url": "/api/spells/gaseous-form",
               "usage": {
                 "type": "per day",
@@ -12556,6 +12678,7 @@
             },
             {
               "name": "Invisibility",
+              "level": 2,
               "url": "/api/spells/invisibility",
               "usage": {
                 "type": "per day",
@@ -12564,6 +12687,7 @@
             },
             {
               "name": "Major Image",
+              "level": 3,
               "url": "/api/spells/major-image",
               "usage": {
                 "type": "per day",
@@ -12572,6 +12696,7 @@
             },
             {
               "name": "Plane Shift",
+              "level": 7,
               "url": "/api/spells/plane-shift",
               "usage": {
                 "type": "per day",
@@ -12709,6 +12834,7 @@
     },
     "languages": "Common",
     "challenge_rating": 3,
+    "xp": 700,
     "special_abilities": [
       {
         "name": "Shapechanger",
@@ -12791,6 +12917,7 @@
     },
     "languages": "",
     "challenge_rating": 0.25,
+    "xp": 50,
     "actions": [
       {
         "name": "Hooves",
@@ -12866,6 +12993,7 @@
     },
     "languages": "Aquan, Draconic",
     "challenge_rating": 17,
+    "xp": 18000,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -13018,6 +13146,7 @@
     },
     "languages": "Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal)",
     "challenge_rating": 0.25,
+    "xp": 25,
     "actions": [
       {
         "name": "Multiattack",
@@ -13138,6 +13267,7 @@
     },
     "languages": "Elvish, Undercommon",
     "challenge_rating": 6,
+    "xp": 2300,
     "special_abilities": [
       {
         "name": "Fey Ancestry",
@@ -13157,6 +13287,7 @@
           "spells": [
             {
               "name": "Entangle",
+              "level": 1,
               "url": "/api/spells/dancing-lights",
               "usage": {
                 "type": "at will"
@@ -13164,6 +13295,7 @@
             },
             {
               "name": "Darkness",
+              "level": 2,
               "url": "/api/spells/darkness",
               "usage": {
                 "type": "per day",
@@ -13172,6 +13304,7 @@
             },
             {
               "name": "Faerie Fire",
+              "level": 1,
               "url": "/api/spells/faerie-fire",
               "usage": {
                 "type": "per day",
@@ -13367,6 +13500,7 @@
     },
     "languages": "Elvish, Undercommon",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Fey Ancestry",
@@ -13387,6 +13521,7 @@
           "spells": [
             {
               "name": "Dancing Lights",
+              "level": 0,
               "url": "/api/spells/dancing-lights",
               "usage": {
                 "type": "at will"
@@ -13394,6 +13529,7 @@
             },
             {
               "name": "Darkness",
+              "level": 2,
               "url": "/api/spells/entangle",
               "usage": {
                 "type": "per day",
@@ -13402,6 +13538,7 @@
             },
             {
               "name": "Faerie Fire",
+              "level": 1,
               "url": "/api/spells/faerie-fire",
               "usage": {
                 "type": "per day",
@@ -13504,6 +13641,7 @@
     },
     "languages": "Druidic plus any two languages",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Spellcasting",
@@ -13511,9 +13649,9 @@
         "spellcasting": {
           "level": 4,
           "ability": {
-            "index": "5",
+            "index": "wis",
             "name": "WIS",
-            "url": "/api/ability-scores/5"
+            "url": "/api/ability-scores/wis"
           },
           "dc": 12,
           "modifier": 4,
@@ -13653,6 +13791,7 @@
     },
     "languages": "Elvish, Sylvan",
     "challenge_rating": 1,
+    "xp": 200,
     "special_abilities": [
       {
         "name": "Innate Spellcasting",
@@ -13668,6 +13807,7 @@
           "spells": [
             {
               "name": "Druidcraft",
+              "level": 0,
               "url": "/api/spells/druidcraft",
               "usage": {
                 "type": "at will"
@@ -13675,6 +13815,7 @@
             },
             {
               "name": "Entangle",
+              "level": 1,
               "url": "/api/spells/entangle",
               "usage": {
                 "type": "per day",
@@ -13683,6 +13824,7 @@
             },
             {
               "name": "Goodberry",
+              "level": 1,
               "url": "/api/spells/goodberry",
               "usage": {
                 "type": "per day",
@@ -13691,6 +13833,7 @@
             },
             {
               "name": "Barkskin",
+              "level": 2,
               "url": "/api/spells/barkskin",
               "usage": {
                 "type": "per day",
@@ -13699,6 +13842,7 @@
             },
             {
               "name": "Pass without Trace",
+              "level": 2,
               "url": "/api/spells/pass-without-trace",
               "usage": {
                 "type": "per day",
@@ -13707,6 +13851,7 @@
             },
             {
               "name": "Shillelagh",
+              "level": 0,
               "url": "/api/spells/shillelagh",
               "usage": {
                 "type": "per day",
@@ -13791,6 +13936,7 @@
     },
     "languages": "Dwarvish, Undercommon",
     "challenge_rating": 1,
+    "xp": 200,
     "special_abilities": [
       {
         "name": "Duergar Resilience",
@@ -13905,6 +14051,7 @@
     },
     "languages": "Auran, Terran",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Death Burst",
@@ -13922,9 +14069,25 @@
       {
         "name": "Innate Spellcasting",
         "desc": "The mephit can innately cast sleep, requiring no material components. Its innate spellcasting ability is Charisma.",
-        "usage": {
-          "type": "per day",
-          "times": 1
+        "spellcasting": {
+          "ability": {
+            "index": "cha",
+            "name": "CHA",
+            "url": "/api/ability-scores/cha"
+          },
+          "dc": 10,
+          "components_required": [],
+          "spells": [
+            {
+              "name": "Sleep",
+              "level": 1,
+              "url": "/api/spells/sleep",
+              "usage": {
+                "type": "per day",
+                "times": 1
+              }
+            }
+          ]
         }
       }
     ],
@@ -14007,6 +14170,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "Keen Sight",
@@ -14092,6 +14256,7 @@
     },
     "languages": "Terran",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "Earth Glide",
@@ -14193,6 +14358,7 @@
     },
     "languages": "Ignan",
     "challenge_rating": 11,
+    "xp": 7200,
     "special_abilities": [
       {
         "name": "Elemental Demise",
@@ -14213,6 +14379,7 @@
           "spells": [
             {
               "name": "Detect Magic",
+              "level": 1,
               "url": "/api/spells/detect-magic",
               "usage": {
                 "type": "at will"
@@ -14220,6 +14387,7 @@
             },
             {
               "name": "Enlarge/Reduce",
+              "level": 2,
               "url": "/api/spells/enlarge-reduce",
               "usage": {
                 "type": "per day",
@@ -14228,6 +14396,7 @@
             },
             {
               "name": "Tongues",
+              "level": 3,
               "url": "/api/spells/tongues",
               "usage": {
                 "type": "per day",
@@ -14236,6 +14405,7 @@
             },
             {
               "name": "Conjure Elemental",
+              "level": 5,
               "notes": "Fire Elemental only",
               "url": "/api/spells/conjure-elemental",
               "usage": {
@@ -14245,6 +14415,7 @@
             },
             {
               "name": "Gaseous Form",
+              "level": 3,
               "url": "/api/spells/gaseous-form",
               "usage": {
                 "type": "per day",
@@ -14253,6 +14424,7 @@
             },
             {
               "name": "Invisibility",
+              "level": 2,
               "url": "/api/spells/invisibility",
               "usage": {
                 "type": "per day",
@@ -14261,6 +14433,7 @@
             },
             {
               "name": "Major Image",
+              "level": 3,
               "url": "/api/spells/major-image",
               "usage": {
                 "type": "per day",
@@ -14269,6 +14442,7 @@
             },
             {
               "name": "Plane Shift",
+              "level": 7,
               "url": "/api/spells/plane-shift",
               "usage": {
                 "type": "per day",
@@ -14277,6 +14451,7 @@
             },
             {
               "name": "Wall of Fire",
+              "level": 4,
               "url": "/api/spells/wall-of-fire",
               "usage": {
                 "type": "per day",
@@ -14385,6 +14560,7 @@
     },
     "languages": "",
     "challenge_rating": 4,
+    "xp": 1100,
     "special_abilities": [
       {
         "name": "Trampling Charge",
@@ -14454,6 +14630,7 @@
     },
     "languages": "",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Charge",
@@ -14567,6 +14744,7 @@
     },
     "languages": "Infernal, telepathy 120 ft.",
     "challenge_rating": 12,
+    "xp": 8400,
     "special_abilities": [
       {
         "name": "Hellish Weapons",
@@ -14737,6 +14915,7 @@
     },
     "languages": "",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Spider Climb",
@@ -14878,6 +15057,7 @@
     },
     "languages": "Giant, Orc",
     "challenge_rating": 4,
+    "xp": 1100,
     "special_abilities": [
       {
         "name": "Two Heads",
@@ -15016,6 +15196,7 @@
     },
     "languages": "Ignan",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "Fire Form",
@@ -15145,6 +15326,7 @@
     },
     "languages": "Giant",
     "challenge_rating": 9,
+    "xp": 5000,
     "actions": [
       {
         "name": "Multiattack",
@@ -15260,6 +15442,7 @@
     },
     "languages": "understands the languages of its creator but can't speak",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "Berserk",
@@ -15353,6 +15536,7 @@
     },
     "languages": "",
     "challenge_rating": 0.125,
+    "xp": 25,
     "special_abilities": [
       {
         "name": "Flyby",
@@ -15463,6 +15647,7 @@
     },
     "languages": "",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Antimagic Susceptibility",
@@ -15540,6 +15725,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 0,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -15622,6 +15808,7 @@
     },
     "languages": "Giant",
     "challenge_rating": 8,
+    "xp": 3900,
     "actions": [
       {
         "name": "Multiattack",
@@ -15721,6 +15908,7 @@
     },
     "languages": "Terran",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "False Appearance",
@@ -15843,6 +16031,7 @@
     },
     "languages": "",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Ooze Cube",
@@ -15931,6 +16120,7 @@
     },
     "languages": "Common",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Stench",
@@ -16068,6 +16258,7 @@
     },
     "languages": "any languages it knew in life",
     "challenge_rating": 4,
+    "xp": 1100,
     "special_abilities": [
       {
         "name": "Ethereal Sight",
@@ -16163,6 +16354,7 @@
     },
     "languages": "Common",
     "challenge_rating": 1,
+    "xp": 200,
     "actions": [
       {
         "name": "Bite",
@@ -16244,6 +16436,7 @@
     },
     "languages": "",
     "challenge_rating": 7,
+    "xp": 2900,
     "actions": [
       {
         "name": "Multiattack",
@@ -16325,6 +16518,7 @@
     },
     "languages": "",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Keen Smell",
@@ -16417,6 +16611,7 @@
     },
     "languages": "",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Echolocation",
@@ -16475,6 +16670,7 @@
     },
     "languages": "",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Charge",
@@ -16539,6 +16735,7 @@
     },
     "languages": "",
     "challenge_rating": 0.25,
+    "xp": 450,
     "actions": [
       {
         "name": "Bite",
@@ -16598,6 +16795,7 @@
     },
     "languages": "",
     "challenge_rating": 2,
+    "xp": 450,
     "actions": [
       {
         "name": "Bite",
@@ -16672,6 +16870,7 @@
     },
     "languages": "",
     "challenge_rating": 0.125,
+    "xp": 25,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -16736,6 +16935,7 @@
     },
     "languages": "",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "Hold Breath",
@@ -16836,6 +17036,7 @@
     },
     "languages": "Giant Eagle, understands Common and Auran but can't speak",
     "challenge_rating": 1,
+    "xp": 200,
     "special_abilities": [
       {
         "name": "Keen Sight",
@@ -16935,6 +17136,7 @@
     },
     "languages": "Giant Elk, understands Common, Elvish, and Sylvan but can't speak",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Charge",
@@ -17005,6 +17207,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "Illumination",
@@ -17078,6 +17281,7 @@
     },
     "languages": "",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -17140,6 +17344,7 @@
     },
     "languages": "",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Charge",
@@ -17207,6 +17412,7 @@
     },
     "languages": "",
     "challenge_rating": 1,
+    "xp": 200,
     "special_abilities": [
       {
         "name": "Rampage",
@@ -17263,6 +17469,7 @@
     },
     "languages": "",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Variant: Hold Breath",
@@ -17340,6 +17547,7 @@
     },
     "languages": "",
     "challenge_rating": 1,
+    "xp": 200,
     "special_abilities": [
       {
         "name": "Hold Breath",
@@ -17429,6 +17637,7 @@
     },
     "languages": "Giant Owl, understands Common, Elvish, and Sylvan but can't speak",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Flyby",
@@ -17498,6 +17707,7 @@
     },
     "languages": "",
     "challenge_rating": 0.25,
+    "xp": 50,
     "actions": [
       {
         "name": "Bite",
@@ -17547,6 +17757,7 @@
     },
     "languages": "",
     "challenge_rating": 0.125,
+    "xp": 25,
     "special_abilities": [
       {
         "name": "Keen Smell",
@@ -17606,6 +17817,7 @@
     },
     "languages": "",
     "challenge_rating": 0.125,
+    "xp": 25,
     "actions": [
       {
         "name": "Bite",
@@ -17655,6 +17867,7 @@
     },
     "languages": "",
     "challenge_rating": 3,
+    "xp": 700,
     "actions": [
       {
         "name": "Claw",
@@ -17740,6 +17953,7 @@
     },
     "languages": "",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Charge",
@@ -17808,6 +18022,7 @@
     },
     "languages": "",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "Blood Frenzy",
@@ -17878,6 +18093,7 @@
     },
     "languages": "",
     "challenge_rating": 1,
+    "xp": 200,
     "special_abilities": [
       {
         "name": "Spider Climb",
@@ -17952,6 +18168,7 @@
     },
     "languages": "",
     "challenge_rating": 1,
+    "xp": 200,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -18032,6 +18249,7 @@
     },
     "languages": "understands Common but can't speak",
     "challenge_rating": 1,
+    "xp": 200,
     "special_abilities": [
       {
         "name": "Keen Sight and Smell",
@@ -18128,6 +18346,7 @@
     },
     "languages": "",
     "challenge_rating": 0.5,
+    "xp": 100,
     "actions": [
       {
         "name": "Sting",
@@ -18194,6 +18413,7 @@
     },
     "languages": "",
     "challenge_rating": 0.125,
+    "xp": 25,
     "special_abilities": [
       {
         "name": "Keen Hearing and Smell",
@@ -18268,6 +18488,7 @@
     },
     "languages": "",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Spider Climb",
@@ -18338,6 +18559,7 @@
     },
     "languages": "",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Aberrant Ground",
@@ -18489,6 +18711,7 @@
     },
     "languages": "Abyssal, telepathy 120 ft.",
     "challenge_rating": 9,
+    "xp": 5000,
     "special_abilities": [
       {
         "name": "Innate Spellcasting",
@@ -18504,6 +18727,7 @@
           "spells": [
             {
               "name": "Darkness",
+              "level": 2,
               "url": "/api/spells/darkness",
               "usage": {
                 "type": "at will"
@@ -18511,6 +18735,7 @@
             },
             {
               "name": "Detect Magic",
+              "level": 1,
               "url": "/api/spells/detect-magic",
               "usage": {
                 "type": "at will"
@@ -18518,6 +18743,7 @@
             },
             {
               "name": "Dispel Magic",
+              "level": 3,
               "url": "/api/spells/dispel-magic",
               "usage": {
                 "type": "at will"
@@ -18525,6 +18751,7 @@
             },
             {
               "name": "Confusion",
+              "level": 4,
               "url": "/api/spells/confusion",
               "usage": {
                 "type": "per day",
@@ -18533,7 +18760,8 @@
             },
             {
               "name": "Fly",
-              "url": "/api/spells/haste",
+              "level": 3,
+              "url": "/api/spells/fly",
               "usage": {
                 "type": "per day",
                 "times": 1
@@ -18541,6 +18769,7 @@
             },
             {
               "name": "Power Word Stun",
+              "level": 8,
               "url": "/api/spells/power-word-stun",
               "usage": {
                 "type": "per day",
@@ -18700,6 +18929,7 @@
     },
     "languages": "any one language (usually Common)",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "Brave",
@@ -18849,6 +19079,7 @@
     },
     "languages": "Gnoll",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Rampage",
@@ -18947,6 +19178,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "Charge",
@@ -19015,6 +19247,7 @@
     },
     "languages": "Common, Goblin",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Nimble Escape",
@@ -19137,6 +19370,7 @@
     },
     "languages": "Draconic",
     "challenge_rating": 3,
+    "xp": 700,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -19256,6 +19490,7 @@
     },
     "languages": "",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "Trampling Charge",
@@ -19385,6 +19620,7 @@
     },
     "languages": "",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Amorphous",
@@ -19514,6 +19750,7 @@
     },
     "languages": "Draconic",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -19638,6 +19875,7 @@
     },
     "languages": "Common, Draconic, Sylvan",
     "challenge_rating": 3,
+    "xp": 700,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -19657,6 +19895,7 @@
           "spells": [
             {
               "name": "Dancing Lights",
+              "level": 0,
               "url": "/api/spells/dancing-lights",
               "usage": {
                 "type": "at will"
@@ -19664,6 +19903,7 @@
             },
             {
               "name": "Minor Illusion",
+              "level": 0,
               "url": "/api/spells/minor-illusion",
               "usage": {
                 "type": "at will"
@@ -19671,6 +19911,7 @@
             },
             {
               "name": "Vicious Mockery",
+              "level": 0,
               "url": "/api/spells/vicious-mockery",
               "usage": {
                 "type": "at will"
@@ -19682,18 +19923,6 @@
       {
         "name": "Mimicry",
         "desc": "The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check."
-      },
-      {
-        "name": "Hag Coven",
-        "desc": "When hags must work together, they form covens, in spite of their selfish natures. A coven is made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power.\nA coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos."
-      },
-      {
-        "name": "Shared Spellcasting (Coven Only)",
-        "desc": "While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:\n\n- 1st level (4 slots): identify, ray of sickness\n- 2nd level (3 slots): hold person, locate object\n- 3rd level (3 slots): bestow curse, counterspell, lightning bolt\n- 4th level (3 slots): phantasmal killer, polymorph\n- 5th level (2 slots): contact other plane, scrying\n- 6th level (1 slot): eye bite\n\nFor casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12+the hag's Intelligence modifier, and the spell attack bonus is 4+the hag's Intelligence modifier."
-      },
-      {
-        "name": "Hag Eye (Coven Only)",
-        "desc": "A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours.\nA hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over."
       }
     ],
     "actions": [
@@ -19756,6 +19985,7 @@
     },
     "languages": "",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Stone Camouflage",
@@ -19777,7 +20007,7 @@
               },
               {
                 "name": "Beak",
-                "note": "If tentacles attack hits",
+                "notes": "If tentacles attack hits",
                 "count": 1,
                 "type": "melee"
               }
@@ -19858,6 +20088,7 @@
     },
     "languages": "",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Keen Sight",
@@ -19980,6 +20211,7 @@
     },
     "languages": "Undercommon",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Blind Senses",
@@ -20059,6 +20291,7 @@
     },
     "languages": "any one language (usually Common)",
     "challenge_rating": 0.125,
+    "xp": 25,
     "actions": [
       {
         "name": "Spear",
@@ -20174,6 +20407,7 @@
     },
     "languages": "Celestial, Common",
     "challenge_rating": 10,
+    "xp": 5900,
     "special_abilities": [
       {
         "name": "Rejuvenation",
@@ -20185,9 +20419,9 @@
         "spellcasting": {
           "level": 11,
           "ability": {
-            "index": "5",
+            "index": "wis",
             "name": "WIS",
-            "url": "/api/ability-scores/5"
+            "url": "/api/ability-scores/wis"
           },
           "dc": 16,
           "modifier": 8,
@@ -20382,6 +20616,7 @@
     },
     "languages": "Common, Sphinx",
     "challenge_rating": 11,
+    "xp": 7200,
     "special_abilities": [
       {
         "name": "Inscrutable",
@@ -20397,9 +20632,9 @@
         "spellcasting": {
           "level": 9,
           "ability": {
-            "index": "4",
+            "index": "int",
             "name": "INT",
-            "url": "/api/ability-scores/4"
+            "url": "/api/ability-scores/int"
           },
           "dc": 16,
           "modifier": 8,
@@ -20572,6 +20807,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 5,
+    "xp": 1800,
     "actions": [
       {
         "name": "Multiattack",
@@ -20587,7 +20823,7 @@
               },
               {
                 "name": "Shortsword",
-                "note": "If shortsword is drawn",
+                "notes": "If shortsword is drawn",
                 "count": 1,
                 "type": "melee"
               }
@@ -20715,6 +20951,7 @@
     },
     "languages": "Common",
     "challenge_rating": 1,
+    "xp": 200,
     "actions": [
       {
         "name": "Multiattack",
@@ -20813,6 +21050,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "Keen Sight",
@@ -20877,6 +21115,7 @@
     },
     "languages": "understands Infernal but can't speak it",
     "challenge_rating": 3,
+    "xp": 700,
     "special_abilities": [
       {
         "name": "Keen Hearing and Smell",
@@ -21008,6 +21247,7 @@
     },
     "languages": "Abyssal, telepathy 120 ft.",
     "challenge_rating": 8,
+    "xp": 3900,
     "special_abilities": [
       {
         "name": "Magic Resistance",
@@ -21128,6 +21368,7 @@
     },
     "languages": "Giant",
     "challenge_rating": 5,
+    "xp": 1800,
     "actions": [
       {
         "name": "Multiattack",
@@ -21217,6 +21458,7 @@
     },
     "languages": "",
     "challenge_rating": 1,
+    "xp": 200,
     "special_abilities": [
       {
         "name": "Keen Sight",
@@ -21308,6 +21550,7 @@
     },
     "languages": "Common, Goblin",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Martial Advantage",
@@ -21404,6 +21647,7 @@
     },
     "languages": "understands the languages of its creator but can't speak",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "Telepathic Bond",
@@ -21437,7 +21681,7 @@
     "subtype": "devil",
     "alignment": "lawful evil",
     "armor_class": 18,
-    "hit_points": 148,
+    "hit_points": 178,
     "hit_dice": "17d10",
     "speed": {
       "walk": "20 ft.",
@@ -21502,6 +21746,7 @@
     },
     "languages": "Infernal, telepathy 120 ft.",
     "challenge_rating": 11,
+    "xp": 7200,
     "special_abilities": [
       {
         "name": "Devil's Sight",
@@ -21650,6 +21895,7 @@
     },
     "languages": "",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Blood Frenzy",
@@ -21719,6 +21965,7 @@
     },
     "languages": "",
     "challenge_rating": 8,
+    "xp": 3900,
     "special_abilities": [
       {
         "name": "Hold Breath",
@@ -21810,6 +22057,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "Pack Tactics",
@@ -21907,6 +22155,7 @@
     },
     "languages": "Infernal, telepathy 120 ft.",
     "challenge_rating": 14,
+    "xp": 11500,
     "special_abilities": [
       {
         "name": "Devil's Sight",
@@ -22074,6 +22323,7 @@
     },
     "languages": "Aquan, Auran",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Death Burst",
@@ -22115,6 +22365,7 @@
           "spells": [
             {
               "name": "Fog Cloud",
+              "level": 1,
               "url": "/api/spells/fog-cloud",
               "usage": {
                 "type": "per day",
@@ -22256,6 +22507,7 @@
     },
     "languages": "Infernal, Common",
     "challenge_rating": 1,
+    "xp": 200,
     "special_abilities": [
       {
         "name": "Shapechanger",
@@ -22389,6 +22641,7 @@
     },
     "languages": "Auran, understands Common but doesn't speak it",
     "challenge_rating": 6,
+    "xp": 2300,
     "special_abilities": [
       {
         "name": "Invisibility",
@@ -22500,6 +22753,7 @@
     },
     "languages": "understands the languages of its creator but can't speak",
     "challenge_rating": 16,
+    "xp": 15000,
     "special_abilities": [
       {
         "name": "Fire Absorption",
@@ -22641,6 +22895,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "Keen Hearing and Smell",
@@ -22709,6 +22964,7 @@
     },
     "languages": "",
     "challenge_rating": 3,
+    "xp": 700,
     "special_abilities": [
       {
         "name": "Echolocation",
@@ -22788,6 +23044,7 @@
     },
     "languages": "any one language (usually Common)",
     "challenge_rating": 3,
+    "xp": 700,
     "special_abilities": [
       {
         "name": "Brave",
@@ -22888,6 +23145,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 0.125,
+    "xp": 25,
     "special_abilities": [
       {
         "name": "Sunlight Sensitivity",
@@ -23018,6 +23276,7 @@
     },
     "languages": "understands Abyssal, Celestial, Infernal, and Primordial but can't speak, telepathy 120 ft.",
     "challenge_rating": 23,
+    "xp": 50000,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -23212,6 +23471,7 @@
     },
     "languages": "Abyssal, Common",
     "challenge_rating": 4,
+    "xp": 1100,
     "special_abilities": [
       {
         "name": "Innate Spellcasting",
@@ -23227,6 +23487,7 @@
           "spells": [
             {
               "name": "Major Image",
+              "level": 3,
               "url": "/api/spells/major-image",
               "notes": "Any Humanoid Form",
               "usage": {
@@ -23235,6 +23496,7 @@
             },
             {
               "name": "Charm Person",
+              "level": 1,
               "url": "/api/spells/charm-person",
               "usage": {
                 "type": "per day",
@@ -23243,6 +23505,7 @@
             },
             {
               "name": "Mirror Image",
+              "level": 2,
               "url": "/api/spells/mirror-image",
               "usage": {
                 "type": "per day",
@@ -23251,6 +23514,7 @@
             },
             {
               "name": "Scrying",
+              "level": 5,
               "url": "/api/spells/scrying",
               "usage": {
                 "type": "per day",
@@ -23259,6 +23523,7 @@
             },
             {
               "name": "Suggestion",
+              "level": 2,
               "url": "/api/spells/suggestion",
               "usage": {
                 "type": "per day",
@@ -23267,6 +23532,7 @@
             },
             {
               "name": "Geas",
+              "level": 5,
               "url": "/api/spells/geas",
               "usage": {
                 "type": "per day",
@@ -23394,6 +23660,7 @@
     },
     "languages": "understands infernal but can't speak",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "Devil's Sight",
@@ -23539,6 +23806,7 @@
     },
     "languages": "Common plus up to five other languages",
     "challenge_rating": 21,
+    "xp": 33000,
     "special_abilities": [
       {
         "name": "Legendary Resistance",
@@ -23558,9 +23826,9 @@
         "spellcasting": {
           "level": 18,
           "ability": {
-            "index": "4",
+            "index": "int",
             "name": "INT",
-            "url": "/api/ability-scores/4"
+            "url": "/api/ability-scores/int"
           },
           "dc": 20,
           "modifier": 12,
@@ -23827,6 +24095,7 @@
     },
     "languages": "",
     "challenge_rating": 1,
+    "xp": 200,
     "special_abilities": [
       {
         "name": "Keen Smell",
@@ -23910,6 +24179,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "actions": [
       {
         "name": "Bite",
@@ -23984,6 +24254,7 @@
     },
     "languages": "Draconic",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Hold Breath",
@@ -24197,6 +24468,7 @@
     },
     "languages": "any four languages",
     "challenge_rating": 6,
+    "xp": 2300,
     "special_abilities": [
       {
         "name": "Spellcasting",
@@ -24204,9 +24476,9 @@
         "spellcasting": {
           "level": 9,
           "ability": {
-            "index": "4",
+            "index": "int",
             "name": "INT",
-            "url": "/api/ability-scores/4"
+            "url": "/api/ability-scores/int"
           },
           "dc": 14,
           "modifier": 6,
@@ -24369,6 +24641,7 @@
     },
     "languages": "Ignan, Terran",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Death Burst",
@@ -24400,9 +24673,25 @@
       {
         "name": "Innate Spellcasting",
         "desc": "The mephit can innately cast heat metal (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.",
-        "usage": {
-          "type": "per day",
-          "times": 1
+        "spellcasting": {
+          "ability": {
+            "index": "cha",
+            "name": "CHA",
+            "url": "/api/ability-scores/cha"
+          },
+          "components_required": [],
+          "dc": 10,
+          "spells": [
+            {
+              "name": "Heat Metal",
+              "level": 2,
+              "url": "/api/spells/heat-metal",
+              "usage": {
+                "type": "per day",
+                "times": 1
+              }
+            }
+          ]
         }
       }
     ],
@@ -24496,6 +24785,7 @@
     },
     "languages": "Ignan",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Death Burst",
@@ -24573,6 +24863,7 @@
     },
     "languages": "",
     "challenge_rating": 6,
+    "xp": 2300,
     "special_abilities": [
       {
         "name": "Trampling Charge",
@@ -24644,6 +24935,7 @@
     },
     "languages": "",
     "challenge_rating": 3,
+    "xp": 700,
     "special_abilities": [
       {
         "name": "Tail Spike Regrowth",
@@ -24801,6 +25093,7 @@
     },
     "languages": "Abyssal, telepathy 120 ft.",
     "challenge_rating": 16,
+    "xp": 15000,
     "special_abilities": [
       {
         "name": "Magic Resistance",
@@ -24926,6 +25219,7 @@
     },
     "languages": "",
     "challenge_rating": 0.125,
+    "xp": 25,
     "special_abilities": [
       {
         "name": "Keen Hearing and Smell",
@@ -25014,6 +25308,7 @@
     },
     "languages": "Common",
     "challenge_rating": 6,
+    "xp": 2300,
     "special_abilities": [
       {
         "name": "Petrifying Gaze",
@@ -25161,6 +25456,7 @@
     },
     "languages": "Aquan, Common",
     "challenge_rating": 0.125,
+    "xp": 25,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -25231,6 +25527,7 @@
     },
     "languages": "Abyssal, Aquan",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -25376,6 +25673,7 @@
     },
     "languages": "",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Shapechanger",
@@ -25475,6 +25773,7 @@
     },
     "languages": "Abyssal",
     "challenge_rating": 3,
+    "xp": 700,
     "special_abilities": [
       {
         "name": "Charge",
@@ -25564,6 +25863,7 @@
     },
     "languages": "understands Abyssal but can't speak",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Charge",
@@ -25633,6 +25933,7 @@
     },
     "languages": "",
     "challenge_rating": 0.125,
+    "xp": 25,
     "special_abilities": [
       {
         "name": "Beast of Burden",
@@ -25729,6 +26030,7 @@
     },
     "languages": "the languages it knew in life",
     "challenge_rating": 3,
+    "xp": 700,
     "actions": [
       {
         "name": "Multiattack",
@@ -25899,6 +26201,7 @@
     },
     "languages": "the languages it knew in life",
     "challenge_rating": 15,
+    "xp": 13000,
     "special_abilities": [
       {
         "name": "Magic Resistance",
@@ -25914,9 +26217,9 @@
         "spellcasting": {
           "level": 10,
           "ability": {
-            "index": "5",
+            "index": "wis",
             "name": "WIS",
-            "url": "/api/ability-scores/5"
+            "url": "/api/ability-scores/wis"
           },
           "dc": 17,
           "modifier": 9,
@@ -25993,7 +26296,7 @@
             },
             {
               "name": "Contagion",
-              "level": 60,
+              "level": 5,
               "url": "/api/spells/contagion"
             },
             {
@@ -26186,6 +26489,7 @@
     },
     "languages": "Abyssal, telepathy 120 ft.",
     "challenge_rating": 13,
+    "xp": 10000,
     "special_abilities": [
       {
         "name": "Magic Resistance",
@@ -26202,7 +26506,7 @@
             [
               {
                 "name": "Horror Nimbus",
-                "note": "If it can use Horror Nimbus",
+                "notes": "If it can use Horror Nimbus",
                 "count": 1,
                 "type": "ability"
               },
@@ -26356,6 +26660,7 @@
     },
     "languages": "Abyssal, Common, Infernal, Primordial",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "Innate Spellcasting",
@@ -26372,6 +26677,7 @@
           "spells": [
             {
               "name": "Detect Magic",
+              "level": 1,
               "url": "/api/spells/detect-magic",
               "usage": {
                 "type": "at will"
@@ -26379,6 +26685,7 @@
             },
             {
               "name": "Magic Missile",
+              "level": 1,
               "url": "/api/spells/magic-missile",
               "usage": {
                 "type": "at will"
@@ -26386,6 +26693,7 @@
             },
             {
               "name": "Plane Shift",
+              "level": 7,
               "notes": "Self Only",
               "url": "/api/spells/plane-shift",
               "usage": {
@@ -26395,6 +26703,7 @@
             },
             {
               "name": "Ray of Enfeeblement",
+              "level": 2,
               "url": "/api/spells/ray-of-enfeeblement",
               "usage": {
                 "type": "per day",
@@ -26403,6 +26712,7 @@
             },
             {
               "name": "Sleep",
+              "level": 1,
               "url": "/api/spells/sleep",
               "usage": {
                 "type": "per day",
@@ -26419,18 +26729,6 @@
       {
         "name": "Night Hag Items",
         "desc": "A night hag carries two very rare magic items that she must craft for herself If either object is lost, the night hag will go to great lengths to retrieve it, as creating a new tool takes time and effort.\nHeartstone: This lustrous black gem allows a night hag to become ethereal while it is in her possession. The touch of a heartstone also cures any disease. Crafting a heartstone takes 30 days.\nSoul Bag: When an evil humanoid dies as a result of a night hag's Nightmare Haunting, the hag catches the soul in this black sack made of stitched flesh. A soul bag can hold only one evil soul at a time, and only the night hag who crafted the bag can catch a soul with it. Crafting a soul bag takes 7 days and a humanoid sacrifice (whose flesh is used to make the bag)."
-      },
-      {
-        "name": "Hag Coven",
-        "desc": "When hags must work together, they form covens, in spite of their selfish natures. A coven is made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power.\nA coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos."
-      },
-      {
-        "name": "Shared Spellcasting (Coven Only)",
-        "desc": "While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:\n\n- 1st level (4 slots): identify, ray of sickness\n- 2nd level (3 slots): hold person, locate object\n- 3rd level (3 slots): bestow curse, counterspell, lightning bolt\n- 4th level (3 slots): phantasmal killer, polymorph\n- 5th level (2 slots): contact other plane, scrying\n- 6th level (1 slot): eye bite\n\nFor casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12+the hag's Intelligence modifier, and the spell attack bonus is 4+the hag's Intelligence modifier."
-      },
-      {
-        "name": "Hag Eye (Coven Only)",
-        "desc": "A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours.\nA hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over."
       }
     ],
     "actions": [
@@ -26498,6 +26796,7 @@
     },
     "languages": "understands Abyssal, Common, and Infernal but can't speak",
     "challenge_rating": 3,
+    "xp": 700,
     "special_abilities": [
       {
         "name": "Confer Fire Resistance",
@@ -26593,6 +26892,7 @@
     },
     "languages": "any two languages",
     "challenge_rating": 0.125,
+    "xp": 25,
     "actions": [
       {
         "name": "Rapier",
@@ -26680,6 +26980,7 @@
     },
     "languages": "",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Amorphous",
@@ -26771,6 +27072,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "Hold Breath",
@@ -26843,6 +27145,7 @@
     },
     "languages": "Common, Giant",
     "challenge_rating": 2,
+    "xp": 450,
     "actions": [
       {
         "name": "Greatclub",
@@ -26922,6 +27225,7 @@
     },
     "languages": "understands Common and Giant but can't speak",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Undead Fortitude",
@@ -27035,6 +27339,7 @@
     },
     "languages": "Common, Giant",
     "challenge_rating": 7,
+    "xp": 2900,
     "special_abilities": [
       {
         "name": "Innate Spellcasting",
@@ -27050,6 +27355,7 @@
           "spells": [
             {
               "name": "Darkness",
+              "level": 2,
               "url": "/api/spells/darkness",
               "usage": {
                 "type": "at will"
@@ -27057,6 +27363,7 @@
             },
             {
               "name": "Invisibility",
+              "level": 2,
               "url": "/api/spells/invisibility",
               "usage": {
                 "type": "at will"
@@ -27064,6 +27371,7 @@
             },
             {
               "name": "Charm Person",
+              "level": 1,
               "url": "/api/spells/charm-person",
               "usage": {
                 "type": "per day",
@@ -27072,6 +27380,7 @@
             },
             {
               "name": "Cone of Cold",
+              "level": 5,
               "url": "/api/spells/cone-of-cold",
               "usage": {
                 "type": "per day",
@@ -27080,6 +27389,7 @@
             },
             {
               "name": "Gaseous Form",
+              "level": 3,
               "url": "/api/spells/gaseous-form",
               "usage": {
                 "type": "per day",
@@ -27088,6 +27398,7 @@
             },
             {
               "name": "Sleep",
+              "level": 1,
               "url": "/api/spells/sleep",
               "usage": {
                 "type": "per day",
@@ -27123,7 +27434,7 @@
             [
               {
                 "name": "Claw",
-                "note": "If in Oni form",
+                "notes": "If in Oni form",
                 "count": 2,
                 "type": "melee"
               }
@@ -27131,13 +27442,13 @@
             [
               {
                 "name": "Glaive",
-                "note": "If in Oni form",
+                "notes": "If in Oni form",
                 "count": 1,
                 "type": "melee"
               },
               {
                 "name": "Claw",
-                "note": "If in Oni form",
+                "notes": "If in Oni form",
                 "count": 1,
                 "type": "melee"
               }
@@ -27221,6 +27532,7 @@
     },
     "languages": "Common, Orc",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Aggressive",
@@ -27300,6 +27612,7 @@
     },
     "languages": "Otyugh",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "Limited Telepathy",
@@ -27430,6 +27743,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "Flyby",
@@ -27498,6 +27812,7 @@
     },
     "languages": "",
     "challenge_rating": 3,
+    "xp": 700,
     "special_abilities": [
       {
         "name": "Keen Sight and Smell",
@@ -27606,6 +27921,7 @@
     },
     "languages": "",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Keen Smell",
@@ -27713,6 +28029,7 @@
     },
     "languages": "understands Celestial, Common, Elvish, and Sylvan but can't speak",
     "challenge_rating": 2,
+    "xp": 450,
     "actions": [
       {
         "name": "Hooves",
@@ -27772,6 +28089,7 @@
     },
     "languages": "",
     "challenge_rating": 3,
+    "xp": 700,
     "special_abilities": [
       {
         "name": "Ethereal Jaunt",
@@ -27870,6 +28188,7 @@
     },
     "languages": "Infernal, telepathy 120 ft.",
     "challenge_rating": 20,
+    "xp": 25000,
     "special_abilities": [
       {
         "name": "Fear Aura",
@@ -27906,6 +28225,7 @@
           "spells": [
             {
               "name": "Detect Magic",
+              "level": 1,
               "url": "/api/spells/detect-magic",
               "usage": {
                 "type": "at will"
@@ -27913,6 +28233,7 @@
             },
             {
               "name": "Fireball",
+              "level": 3,
               "url": "/api/spells/fireball",
               "usage": {
                 "type": "at will"
@@ -27920,6 +28241,7 @@
             },
             {
               "name": "Hold Monster",
+              "level": 5,
               "url": "/api/spells/hold-monster",
               "usage": {
                 "type": "per day",
@@ -27928,6 +28250,7 @@
             },
             {
               "name": "Wall of Fire",
+              "level": 4,
               "url": "/api/spells/wall-of-fire",
               "usage": {
                 "type": "per day",
@@ -28116,6 +28439,7 @@
     },
     "languages": "all, telepathy 120 ft.",
     "challenge_rating": 16,
+    "xp": 15000,
     "special_abilities": [
       {
         "name": "Angelic Weapons",
@@ -28139,6 +28463,7 @@
           "spells": [
             {
               "name": "Detect Evil and Good",
+              "level": 1,
               "url": "/api/spells/detect-evil-and-good",
               "usage": {
                 "type": "at will"
@@ -28146,6 +28471,7 @@
             },
             {
               "name": "Invisibility",
+              "level": 2,
               "notes": "Self Only",
               "url": "/api/spells/invisibility",
               "usage": {
@@ -28154,6 +28480,7 @@
             },
             {
               "name": "Blade Barrier",
+              "level": 6,
               "url": "/api/spells/blade-barrier",
               "usage": {
                 "type": "per day",
@@ -28162,6 +28489,7 @@
             },
             {
               "name": "Dispel Evil and Good",
+              "level": 5,
               "url": "/api/spells/dispel-evil-and-good",
               "usage": {
                 "type": "per day",
@@ -28170,6 +28498,7 @@
             },
             {
               "name": "Flame Strike",
+              "level": 5,
               "url": "/api/spells/flame-strike",
               "usage": {
                 "type": "per day",
@@ -28178,6 +28507,7 @@
             },
             {
               "name": "Raise Dead",
+              "level": 5,
               "url": "/api/spells/raise-dead",
               "usage": {
                 "type": "per day",
@@ -28186,6 +28516,7 @@
             },
             {
               "name": "Commune",
+              "level": 5,
               "url": "/api/spells/commune",
               "usage": {
                 "type": "per day",
@@ -28194,6 +28525,7 @@
             },
             {
               "name": "Control Weather",
+              "level": 8,
               "url": "/api/spells/control-weather",
               "usage": {
                 "type": "per day",
@@ -28202,6 +28534,7 @@
             },
             {
               "name": "Insect Plague",
+              "level": 5,
               "url": "/api/spells/insect-plague",
               "usage": {
                 "type": "per day",
@@ -28314,6 +28647,7 @@
     },
     "languages": "",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Hold Breath",
@@ -28370,6 +28704,7 @@
     },
     "languages": "",
     "challenge_rating": 0.125,
+    "xp": 25,
     "actions": [
       {
         "name": "Bite",
@@ -28428,6 +28763,7 @@
     },
     "languages": "",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Keen Smell",
@@ -28518,6 +28854,7 @@
     },
     "languages": "",
     "challenge_rating": 0.125,
+    "xp": 25,
     "actions": [
       {
         "name": "Hooves",
@@ -28591,6 +28928,7 @@
     },
     "languages": "any two languages",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Divine Eminence",
@@ -28602,9 +28940,9 @@
         "spellcasting": {
           "level": 5,
           "ability": {
-            "index": "5",
+            "index": "wis",
             "name": "WIS",
-            "url": "/api/ability-scores/5"
+            "url": "/api/ability-scores/wis"
           },
           "dc": 13,
           "modifier": 5,
@@ -28738,6 +29076,7 @@
     },
     "languages": "understands Common and Draconic but can't speak",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Keen Senses",
@@ -28839,6 +29178,7 @@
     },
     "languages": "",
     "challenge_rating": 15,
+    "xp": 13000,
     "special_abilities": [
       {
         "name": "Tunneler",
@@ -28950,6 +29290,7 @@
     },
     "languages": "Abyssal, Common",
     "challenge_rating": 1,
+    "xp": 200,
     "special_abilities": [
       {
         "name": "Shapechanger",
@@ -29034,6 +29375,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "Blood Frenzy",
@@ -29114,6 +29456,7 @@
     },
     "languages": "Common, Infernal",
     "challenge_rating": 13,
+    "xp": 10000,
     "special_abilities": [
       {
         "name": "Limited Magic Immunity",
@@ -29134,6 +29477,7 @@
           "spells": [
             {
               "name": "Detect Thoughts",
+              "level": 2,
               "url": "/api/spells/detect-thoughts",
               "usage": {
                 "type": "at will"
@@ -29141,6 +29485,7 @@
             },
             {
               "name": "Disguise Self",
+              "level": 1,
               "url": "/api/spells/disguise-self",
               "usage": {
                 "type": "at will"
@@ -29148,6 +29493,7 @@
             },
             {
               "name": "Mage Hand",
+              "level": 0,
               "url": "/api/spells/mage-hand",
               "usage": {
                 "type": "at will"
@@ -29155,6 +29501,7 @@
             },
             {
               "name": "Minor Illusion",
+              "level": 0,
               "url": "/api/spells/minor-illusion",
               "usage": {
                 "type": "at will"
@@ -29162,6 +29509,7 @@
             },
             {
               "name": "Charm Person",
+              "level": 1,
               "url": "/api/spells/charm-person",
               "usage": {
                 "type": "per day",
@@ -29170,6 +29518,7 @@
             },
             {
               "name": "Detect Magic",
+              "level": 1,
               "url": "/api/spells/detect-magic",
               "usage": {
                 "type": "per day",
@@ -29178,6 +29527,7 @@
             },
             {
               "name": "Invisibility",
+              "level": 2,
               "url": "/api/spells/invisibility",
               "usage": {
                 "type": "per day",
@@ -29186,6 +29536,7 @@
             },
             {
               "name": "Major Image",
+              "level": 3,
               "url": "/api/spells/major-image",
               "usage": {
                 "type": "per day",
@@ -29194,6 +29545,7 @@
             },
             {
               "name": "Suggestion",
+              "level": 2,
               "url": "/api/spells/mass-suggestion",
               "usage": {
                 "type": "per day",
@@ -29202,6 +29554,7 @@
             },
             {
               "name": "Dominate Person",
+              "level": 5,
               "url": "/api/spells/dominate-person",
               "usage": {
                 "type": "per day",
@@ -29210,6 +29563,7 @@
             },
             {
               "name": "Fly",
+              "level": 3,
               "url": "/api/spells/fly",
               "usage": {
                 "type": "per day",
@@ -29218,6 +29572,7 @@
             },
             {
               "name": "Plane Shift",
+              "level": 7,
               "url": "/api/spells/plane-shift",
               "usage": {
                 "type": "per day",
@@ -29226,6 +29581,7 @@
             },
             {
               "name": "True Seeing",
+              "level": 6,
               "url": "/api/spells/true-seeing",
               "usage": {
                 "type": "per day",
@@ -29301,6 +29657,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "Keen Smell",
@@ -29365,6 +29722,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "Mimicry",
@@ -29472,6 +29830,7 @@
     },
     "languages": "Draconic",
     "challenge_rating": 4,
+    "xp": 1100,
     "actions": [
       {
         "name": "Bite",
@@ -29566,6 +29925,7 @@
     },
     "languages": "",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Pack Tactics",
@@ -29627,6 +29987,7 @@
     },
     "languages": "",
     "challenge_rating": 11,
+    "xp": 7200,
     "special_abilities": [
       {
         "name": "Heated Body",
@@ -29703,6 +30064,7 @@
     },
     "languages": "",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Charge",
@@ -29757,6 +30119,7 @@
     },
     "languages": "",
     "challenge_rating": 0.25,
+    "xp": 25,
     "actions": [
       {
         "name": "Hooves",
@@ -29847,6 +30210,7 @@
     },
     "languages": "",
     "challenge_rating": 11,
+    "xp": 7200,
     "special_abilities": [
       {
         "name": "Keen Sight",
@@ -29956,6 +30320,7 @@
     },
     "languages": "",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "False Appearance",
@@ -30090,6 +30455,7 @@
     },
     "languages": "",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Antimagic Susceptibility",
@@ -30143,6 +30509,7 @@
     },
     "languages": "",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Iron Scent",
@@ -30222,6 +30589,7 @@
     },
     "languages": "",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Keen Smell",
@@ -30306,6 +30674,7 @@
     },
     "languages": "Sahuagin",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Blood Frenzy",
@@ -30448,6 +30817,7 @@
     },
     "languages": "Ignan",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "Heated Body",
@@ -30607,6 +30977,7 @@
     },
     "languages": "Common, Elvish, Sylvan",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Magic Resistance",
@@ -30696,6 +31067,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "actions": [
       {
         "name": "Sting",
@@ -30777,6 +31149,7 @@
     },
     "languages": "any one language (usually Common)",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Keen Hearing and Sight",
@@ -30871,6 +31244,7 @@
     },
     "languages": "Aquan, Common, Giant",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -30879,18 +31253,6 @@
       {
         "name": "Horrific Appearance",
         "desc": "Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours.\nUnless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag."
-      },
-      {
-        "name": "Hag Coven",
-        "desc": "When hags must work together, they form covens, in spite of their selfish natures. A coven is made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power.\nA coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos."
-      },
-      {
-        "name": "Shared Spellcasting (Coven Only)",
-        "desc": "While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:\n\n- 1st level (4 slots): identify, ray of sickness\n- 2nd level (3 slots): hold person, locate object\n- 3rd level (3 slots): bestow curse, counterspell, lightning bolt\n- 4th level (3 slots): phantasmal killer, polymorph\n- 5th level (2 slots): contact other plane, scrying\n- 6th level (1 slot): eye bite\n\nFor casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12+the hag's Intelligence modifier, and the spell attack bonus is 4+the hag's Intelligence modifier."
-      },
-      {
-        "name": "Hag Eye (Coven Only)",
-        "desc": "A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours.\nA hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over."
       }
     ],
     "actions": [
@@ -30958,6 +31320,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 0,
     "special_abilities": [
       {
         "name": "Water Breathing",
@@ -31053,6 +31416,7 @@
     },
     "languages": "",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Amorphous",
@@ -31142,6 +31506,7 @@
     },
     "languages": "",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "Lightning Absorption",
@@ -31158,13 +31523,13 @@
             [
               {
                 "name": "Slam",
-                "note": "If both slam attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.",
+                "notes": "If both slam attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.",
                 "count": 2,
                 "type": "melee"
               },
               {
                 "name": "Engulf",
-                "note": "If both slam attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.",
+                "notes": "If both slam attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.",
                 "count": 2,
                 "type": "melee"
               }
@@ -31251,6 +31616,7 @@
     },
     "languages": "understands commands given in any language but can't speak",
     "challenge_rating": 7,
+    "xp": 2900,
     "special_abilities": [
       {
         "name": "Bound",
@@ -31352,6 +31718,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "False Appearance",
@@ -31447,6 +31814,7 @@
     },
     "languages": "Draconic",
     "challenge_rating": 2,
+    "xp": 450,
     "actions": [
       {
         "name": "Bite",
@@ -31551,6 +31919,7 @@
     },
     "languages": "understands all languages it spoke in life but can't speak",
     "challenge_rating": 0.25,
+    "xp": 50,
     "actions": [
       {
         "name": "Shortsword",
@@ -31673,6 +32042,7 @@
     },
     "languages": "all, telepathy 120 ft.",
     "challenge_rating": 21,
+    "xp": 33000,
     "special_abilities": [
       {
         "name": "Angelic Weapons",
@@ -31696,6 +32066,7 @@
           "spells": [
             {
               "name": "Detect Evil and Good",
+              "level": 1,
               "url": "/api/spells/detect-evil-and-good",
               "usage": {
                 "type": "at will"
@@ -31703,6 +32074,7 @@
             },
             {
               "name": "Invisibility",
+              "level": 2,
               "notes": "Self Only",
               "url": "/api/spells/invisibility",
               "usage": {
@@ -31711,6 +32083,7 @@
             },
             {
               "name": "Blade Barrier",
+              "level": 6,
               "url": "/api/spells/blade-barrier",
               "usage": {
                 "type": "per day",
@@ -31719,6 +32092,7 @@
             },
             {
               "name": "Dispel Evil and Good",
+              "level": 5,
               "url": "/api/spells/dispel-evil-and-good",
               "usage": {
                 "type": "per day",
@@ -31727,6 +32101,7 @@
             },
             {
               "name": "Resurrection",
+              "level": 7,
               "url": "/api/spells/resurrection",
               "usage": {
                 "type": "per day",
@@ -31735,6 +32110,7 @@
             },
             {
               "name": "Commune",
+              "level": 5,
               "url": "/api/spells/commune",
               "usage": {
                 "type": "per day",
@@ -31743,6 +32119,7 @@
             },
             {
               "name": "Control Weather",
+              "level": 8,
               "url": "/api/spells/control-weather",
               "usage": {
                 "type": "per day",
@@ -31970,6 +32347,7 @@
     },
     "languages": "understands all languages it knew in life but can't speak",
     "challenge_rating": 1,
+    "xp": 200,
     "special_abilities": [
       {
         "name": "Incorporeal Movement",
@@ -32039,6 +32417,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "Spider Climb",
@@ -32146,6 +32525,7 @@
     },
     "languages": "Abyssal, Common",
     "challenge_rating": 8,
+    "xp": 3900,
     "special_abilities": [
       {
         "name": "Rejuvenation",
@@ -32157,9 +32537,9 @@
         "spellcasting": {
           "level": 10,
           "ability": {
-            "index": "4",
+            "index": "int",
             "name": "INT",
-            "url": "/api/ability-scores/4"
+            "url": "/api/ability-scores/int"
           },
           "dc": 14,
           "modifier": 6,
@@ -32308,6 +32688,7 @@
     },
     "languages": "Common, Elvish, Sylvan",
     "challenge_rating": 0.25,
+    "xp": 50,
     "actions": [
       {
         "name": "Longsword",
@@ -32437,6 +32818,7 @@
     },
     "languages": "any two languages",
     "challenge_rating": 1,
+    "xp": 200,
     "special_abilities": [
       {
         "name": "Cunning Action",
@@ -32534,6 +32916,7 @@
     },
     "languages": "Aquan, Ignan",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Death Burst",
@@ -32561,9 +32944,25 @@
       {
         "name": "Innate Spellcasting",
         "desc": "The mephit can innately cast blur, requiring no material components. Its innate spellcasting ability is Charisma.",
-        "usage": {
-          "type": "per day",
-          "times": 1
+        "spellcasting": {
+          "ability": {
+            "index": "cha",
+            "name": "CHA",
+            "url": "/api/ability-scores/cha"
+          },
+          "dc": 11,
+          "components_required": [],
+          "spells": [
+            {
+              "name": "Blur",
+              "level": 2,
+              "url": "/api/spells/blur",
+              "usage": {
+                "type": "per day",
+                "times": 1
+              }
+            }
+          ]
         }
       }
     ],
@@ -32656,6 +33055,7 @@
     },
     "languages": "",
     "challenge_rating": 0.125,
+    "xp": 25,
     "actions": [
       {
         "name": "Blood Drain",
@@ -32746,6 +33146,7 @@
     },
     "languages": "Giant",
     "challenge_rating": 7,
+    "xp": 2900,
     "special_abilities": [
       {
         "name": "Stone Camouflage",
@@ -32873,6 +33274,7 @@
     },
     "languages": "understands the languages of its creator but can't speak",
     "challenge_rating": 10,
+    "xp": 5900,
     "special_abilities": [
       {
         "name": "Immutable Form",
@@ -33035,6 +33437,7 @@
     },
     "languages": "Common, Giant",
     "challenge_rating": 13,
+    "xp": 10000,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -33054,6 +33457,7 @@
           "spells": [
             {
               "name": "Detect Magic",
+              "level": 1,
               "url": "/api/spells/detect-magic",
               "usage": {
                 "type": "at will"
@@ -33061,6 +33465,7 @@
             },
             {
               "name": "Feather Fall",
+              "level": 1,
               "url": "/api/spells/feather-fall",
               "usage": {
                 "type": "at will"
@@ -33068,6 +33473,7 @@
             },
             {
               "name": "Levitate",
+              "level": 2,
               "url": "/api/spells/levitate",
               "usage": {
                 "type": "at will"
@@ -33075,6 +33481,7 @@
             },
             {
               "name": "Light",
+              "level": 0,
               "url": "/api/spells/light",
               "usage": {
                 "type": "at will"
@@ -33082,6 +33489,7 @@
             },
             {
               "name": "Control Weather",
+              "level": 8,
               "url": "/api/spells/control-weather",
               "usage": {
                 "type": "per day",
@@ -33090,6 +33498,7 @@
             },
             {
               "name": "Water Breathing",
+              "level": 3,
               "url": "/api/spells/water-breathing",
               "usage": {
                 "type": "per day",
@@ -33256,6 +33665,7 @@
     },
     "languages": "Abyssal, Common, Infernal, telepathy 60 ft.",
     "challenge_rating": 4,
+    "xp": 1100,
     "special_abilities": [
       {
         "name": "Telepathic Bond",
@@ -33389,6 +33799,7 @@
     },
     "languages": "",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Echolocation",
@@ -33495,6 +33906,7 @@
     },
     "languages": "",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Swarm",
@@ -33592,6 +34004,7 @@
     },
     "languages": "",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Swarm",
@@ -33689,6 +34102,7 @@
     },
     "languages": "",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Swarm",
@@ -33786,6 +34200,7 @@
     },
     "languages": "",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Swarm",
@@ -33883,6 +34298,7 @@
     },
     "languages": "",
     "challenge_rating": 1,
+    "xp": 200,
     "special_abilities": [
       {
         "name": "Blood Frenzy",
@@ -33987,6 +34403,7 @@
     },
     "languages": "",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Keen Smell",
@@ -34087,6 +34504,7 @@
     },
     "languages": "",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Swarm",
@@ -34179,6 +34597,7 @@
     },
     "languages": "",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Swarm",
@@ -34288,6 +34707,7 @@
     },
     "languages": "",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Swarm",
@@ -34393,6 +34813,7 @@
     },
     "languages": "",
     "challenge_rating": 30,
+    "xp": 155000,
     "special_abilities": [
       {
         "name": "Legendary Resistance",
@@ -34457,7 +34878,7 @@
               },
               {
                 "name": "Swallow",
-                "note": "If the target is grappled",
+                "notes": "If the target is grappled",
                 "count": 1,
                 "type": "ability"
               },
@@ -34612,6 +35033,7 @@
     },
     "languages": "any one language (usually Common)",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Pack Tactics",
@@ -34715,6 +35137,7 @@
     },
     "languages": "",
     "challenge_rating": 1,
+    "xp": 200,
     "special_abilities": [
       {
         "name": "Keen Smell",
@@ -34788,6 +35211,7 @@
     },
     "languages": "Common, Druidic, Elvish, Sylvan",
     "challenge_rating": 9,
+    "xp": 5000,
     "special_abilities": [
       {
         "name": "False Appearance",
@@ -34885,6 +35309,7 @@
     },
     "languages": "any one language",
     "challenge_rating": 0.125,
+    "xp": 25,
     "special_abilities": [
       {
         "name": "Pack Tactics",
@@ -34953,6 +35378,7 @@
     },
     "languages": "",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "Trampling Charge",
@@ -35032,6 +35458,7 @@
     },
     "languages": "Giant",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "Keen Smell",
@@ -35139,6 +35566,7 @@
     },
     "languages": "",
     "challenge_rating": 8,
+    "xp": 3900,
     "actions": [
       {
         "name": "Multiattack",
@@ -35149,13 +35577,13 @@
             [
               {
                 "name": "Bite",
-                "note": "It can't make both attacks against the same target",
+                "notes": "It can't make both attacks against the same target",
                 "count": 1,
                 "type": "melee"
               },
               {
                 "name": "Tail",
-                "note": "It can't make both attacks against the same target",
+                "notes": "It can't make both attacks against the same target",
                 "count": 1,
                 "type": "melee"
               }
@@ -35242,6 +35670,7 @@
     },
     "languages": "Celestial, Elvish, Sylvan, telepathy 60 ft.",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "Charge",
@@ -35261,6 +35690,7 @@
           "spells": [
             {
               "name": "Detect Evil and Good",
+              "level": 1,
               "url": "/api/spells/detect-evil-and-good",
               "usage": {
                 "type": "at will"
@@ -35268,6 +35698,7 @@
             },
             {
               "name": "Druidcraft",
+              "level": 0,
               "url": "/api/spells/druidcraft",
               "usage": {
                 "type": "at will"
@@ -35275,6 +35706,7 @@
             },
             {
               "name": "Pass without Trace",
+              "level": 2,
               "url": "/api/spells/pass-without-trace",
               "usage": {
                 "type": "at will"
@@ -35282,6 +35714,7 @@
             },
             {
               "name": "Calm Emotions",
+              "level": 2,
               "url": "/api/spells/calm-emotions",
               "usage": {
                 "type": "per day",
@@ -35290,6 +35723,7 @@
             },
             {
               "name": "Dispel Evil and Good",
+              "level": 5,
               "url": "/api/spells/dispel-evil-and-good",
               "usage": {
                 "type": "per day",
@@ -35298,6 +35732,7 @@
             },
             {
               "name": "Entangle",
+              "level": 1,
               "url": "/api/spells/entangle",
               "usage": {
                 "type": "per day",
@@ -35475,6 +35910,7 @@
     },
     "languages": "the languages it knew in life",
     "challenge_rating": 13,
+    "xp": 10000,
     "special_abilities": [
       {
         "name": "Shapechanger",
@@ -35655,6 +36091,7 @@
     },
     "languages": "the languages it knew in life",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "Regeneration",
@@ -35785,6 +36222,7 @@
     },
     "languages": "any one language (usually Common)",
     "challenge_rating": 3,
+    "xp": 700,
     "actions": [
       {
         "name": "Multiattack",
@@ -35800,7 +36238,7 @@
               },
               {
                 "name": "Shortsword",
-                "note": "If shortsword is drawn",
+                "notes": "If shortsword is drawn",
                 "count": 2,
                 "type": "melee"
               }
@@ -35916,6 +36354,7 @@
     },
     "languages": "",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "False Appearance",
@@ -36024,6 +36463,7 @@
     },
     "languages": "Abyssal, telepathy 120 ft.",
     "challenge_rating": 6,
+    "xp": 2300,
     "special_abilities": [
       {
         "name": "Magic Resistance",
@@ -36162,6 +36602,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "Keen Sight and Smell",
@@ -36220,6 +36661,7 @@
     },
     "languages": "",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Trampling Charge",
@@ -36286,6 +36728,7 @@
     },
     "languages": "",
     "challenge_rating": 0.5,
+    "xp": 100,
     "actions": [
       {
         "name": "Hooves",
@@ -36380,6 +36823,7 @@
     },
     "languages": "Aquan",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "Water Form",
@@ -36499,6 +36943,7 @@
     },
     "languages": "",
     "challenge_rating": 0,
+    "xp": 10,
     "special_abilities": [
       {
         "name": "Keen Hearing and Smell",
@@ -36525,8 +36970,8 @@
     "url": "/api/monsters/weasel"
   },
   {
-    "index": "werebear",
-    "name": "Werebear",
+    "index": "werebear-bear",
+    "name": "Werebear, Bear form",
     "size": "Medium",
     "type": "humanoid",
     "subtype": "human",
@@ -36534,25 +36979,22 @@
     "armor_class": 10,
     "hit_points": 135,
     "hit_dice": "18d8",
-    "speed": {
-      "walk": "30 ft."
-    },
-    "other_speeds": [
+    "forms": [
       {
-        "form": "hyrid",
-        "speed": {
-          "walk": "40 ft.",
-          "climb": "30 ft."
-        }
+        "id": "werebear-human",
+        "name": "Werebear, Human Form",
+        "url": "/api/monsters/werebear-human"
       },
       {
-        "form": "bear",
-        "speed": {
-          "walk": "40 ft.",
-          "climb": "30 ft."
-        }
+        "id": "werebear-hybrid",
+        "name": "Werebear, Hybrid Form",
+        "url": "/api/monsters/werebear-hybrid"
       }
     ],
+    "speed": {
+      "walk": "40 ft.",
+      "climb": "30 ft."
+    },
     "strength": 19,
     "dexterity": 10,
     "constitution": 17,
@@ -36578,8 +37020,9 @@
     "senses": {
       "passive_perception": 17
     },
-    "languages": "Common (can't speak in bear form)",
+    "languages": "",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "Shapechanger",
@@ -36600,30 +37043,7 @@
             [
               {
                 "name": "Claw",
-                "note": "Bear or Hybrid Form Only",
                 "count": 2,
-                "type": "melee"
-              }
-            ],
-            [
-              {
-                "name": "Greataxe",
-                "note": "Humanoid or Hybrid Form Only",
-                "count": 2,
-                "type": "melee"
-              }
-            ],
-            [
-              {
-                "name": "Greataxe",
-                "note": "Hybrid Form Only",
-                "count": 1,
-                "type": "melee"
-              },
-              {
-                "name": "Claw",
-                "note": "Hybrid Form Only",
-                "count": 1,
                 "type": "melee"
               }
             ]
@@ -36631,7 +37051,7 @@
         }
       },
       {
-        "name": "Bite (Bear or Hybrid Form Only)",
+        "name": "Bite",
         "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werebear lycanthropy.",
         "attack_bonus": 7,
         "damage": [
@@ -36646,7 +37066,7 @@
         ]
       },
       {
-        "name": "Claw (Bear or Hybrid Form Only)",
+        "name": "Claw",
         "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.",
         "attack_bonus": 7,
         "damage": [
@@ -36659,9 +37079,92 @@
             "damage_dice": "2d8+4"
           }
         ]
+      }
+    ],
+    "url": "/api/monsters/werebear-bear"
+  },
+  {
+    "index": "werebear-human",
+    "name": "Werebear, Human form",
+    "size": "Medium",
+    "type": "humanoid",
+    "subtype": "human",
+    "alignment": "neutral good",
+    "armor_class": 10,
+    "hit_points": 135,
+    "hit_dice": "18d8",
+    "forms": [
+      {
+        "id": "werebear-bear",
+        "name": "Werebear, Bear Form",
+        "url": "/api/monsters/werebear-bear"
       },
       {
-        "name": "Greataxe (Humanoid or Hybrid Form Only)",
+        "id": "werebear-hybrid",
+        "name": "Werebear, Hybrid Form",
+        "url": "/api/monsters/werebear-hybrid"
+      }
+    ],
+    "speed": {
+      "walk": "30 ft."
+    },
+    "strength": 19,
+    "dexterity": 10,
+    "constitution": 17,
+    "intelligence": 11,
+    "wisdom": 12,
+    "charisma": 12,
+    "proficiencies": [
+      {
+        "value": 7,
+        "proficiency": {
+          "index": "skill-perception",
+          "name": "Skill: Perception",
+          "url": "/api/proficiencies/skill-perception"
+        }
+      }
+    ],
+    "damage_vulnerabilities": [],
+    "damage_resistances": [],
+    "damage_immunities": [
+      "bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons"
+    ],
+    "condition_immunities": [],
+    "senses": {
+      "passive_perception": 17
+    },
+    "languages": "Common",
+    "challenge_rating": 5,
+    "xp": 1800,
+    "special_abilities": [
+      {
+        "name": "Shapechanger",
+        "desc": "The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+      },
+      {
+        "name": "Keen Smell",
+        "desc": "The werebear has advantage on Wisdom (Perception) checks that rely on smell."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multiattack",
+        "desc": "In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.",
+        "options": {
+          "choose": 1,
+          "from": [
+            [
+              {
+                "name": "Greataxe",
+                "count": 2,
+                "type": "melee"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "name": "Greataxe",
         "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage.",
         "attack_bonus": 7,
         "damage": [
@@ -36676,11 +37179,159 @@
         ]
       }
     ],
-    "url": "/api/monsters/werebear"
+    "url": "/api/monsters/werebear-human"
   },
   {
-    "index": "wereboar",
-    "name": "Wereboar",
+    "index": "werebear-hybrid",
+    "name": "Werebear, Hybrid form",
+    "size": "Medium",
+    "type": "humanoid",
+    "subtype": "human",
+    "alignment": "neutral good",
+    "armor_class": 10,
+    "hit_points": 135,
+    "hit_dice": "18d8",
+    "forms": [
+      {
+        "id": "werebear-bear",
+        "name": "Werebear, Bear Form",
+        "url": "/api/monsters/werebear-bear"
+      },
+      {
+        "id": "werebear-human",
+        "name": "Werebear, Human Form",
+        "url": "/api/monsters/werebear-human"
+      }
+    ],
+    "speed": {
+      "walk": "40 ft.",
+      "climb": "30 ft."
+    },
+    "strength": 19,
+    "dexterity": 10,
+    "constitution": 17,
+    "intelligence": 11,
+    "wisdom": 12,
+    "charisma": 12,
+    "proficiencies": [
+      {
+        "value": 7,
+        "proficiency": {
+          "index": "skill-perception",
+          "name": "Skill: Perception",
+          "url": "/api/proficiencies/skill-perception"
+        }
+      }
+    ],
+    "damage_vulnerabilities": [],
+    "damage_resistances": [],
+    "damage_immunities": [
+      "bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons"
+    ],
+    "condition_immunities": [],
+    "senses": {
+      "passive_perception": 17
+    },
+    "languages": "Common",
+    "challenge_rating": 5,
+    "xp": 1800,
+    "special_abilities": [
+      {
+        "name": "Shapechanger",
+        "desc": "The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+      },
+      {
+        "name": "Keen Smell",
+        "desc": "The werebear has advantage on Wisdom (Perception) checks that rely on smell."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multiattack",
+        "desc": "In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.",
+        "options": {
+          "choose": 1,
+          "from": [
+            [
+              {
+                "name": "Claw",
+                "count": 2,
+                "type": "melee"
+              }
+            ],
+            [
+              {
+                "name": "Greataxe",
+                "count": 2,
+                "type": "melee"
+              }
+            ],
+            [
+              {
+                "name": "Greataxe",
+                "count": 1,
+                "type": "melee"
+              },
+              {
+                "name": "Claw",
+                "count": 1,
+                "type": "melee"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "name": "Bite",
+        "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werebear lycanthropy.",
+        "attack_bonus": 7,
+        "damage": [
+          {
+            "damage_type": {
+              "index": "piercing",
+              "name": "Piercing",
+              "url": "/api/damage-types/piercing"
+            },
+            "damage_dice": "2d10+4"
+          }
+        ]
+      },
+      {
+        "name": "Claw",
+        "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.",
+        "attack_bonus": 7,
+        "damage": [
+          {
+            "damage_type": {
+              "index": "slashing",
+              "name": "Slashing",
+              "url": "/api/damage-types/slashing"
+            },
+            "damage_dice": "2d8+4"
+          }
+        ]
+      },
+      {
+        "name": "Greataxe",
+        "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage.",
+        "attack_bonus": 7,
+        "damage": [
+          {
+            "damage_type": {
+              "index": "slashing",
+              "name": "Slashing",
+              "url": "/api/damage-types/slashing"
+            },
+            "damage_dice": "1d12+4"
+          }
+        ]
+      }
+    ],
+    "url": "/api/monsters/werebear-hybrid"
+  },
+  {
+    "index": "wereboar-boar",
+    "name": "Wereboar, Boar form",
     "size": "Medium",
     "type": "humanoid",
     "subtype": "human",
@@ -36688,17 +37339,112 @@
     "armor_class": 10,
     "hit_points": 78,
     "hit_dice": "12d8",
-    "speed": {
-      "walk": "30 ft."
-    },
-    "other_speeds": [
+    "forms": [
       {
-        "form": "boar",
-        "speed": {
-          "walk": "40 ft."
+        "id": "wereboar-human",
+        "name": "Wereboar, Human Form",
+        "url": "/api/monsters/wereboar-human"
+      },
+      {
+        "id": "wereboar-hybrid",
+        "name": "Wereboar, Hybrid Form",
+        "url": "/api/monsters/wereboar-hybrid"
+      }
+    ],
+    "speed": {
+      "walk": "40 ft."
+    },
+    "strength": 17,
+    "dexterity": 10,
+    "constitution": 15,
+    "intelligence": 10,
+    "wisdom": 11,
+    "charisma": 8,
+    "proficiencies": [
+      {
+        "value": 2,
+        "proficiency": {
+          "index": "skill-perception",
+          "name": "Skill: Perception",
+          "url": "/api/proficiencies/skill-perception"
         }
       }
     ],
+    "damage_vulnerabilities": [],
+    "damage_resistances": [],
+    "damage_immunities": [
+      "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
+    ],
+    "condition_immunities": [],
+    "senses": {
+      "passive_perception": 12
+    },
+    "languages": "",
+    "challenge_rating": 4,
+    "xp": 1100,
+    "special_abilities": [
+      {
+        "name": "Shapechanger",
+        "desc": "The wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+      },
+      {
+        "name": "Charge (Boar or Hybrid Form Only)",
+        "desc": "If the wereboar moves at least 15 feet straight toward a target and then hits it with its tusks on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone."
+      },
+      {
+        "name": "Relentless",
+        "desc": "If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.",
+        "usage": {
+          "type": "recharge after rest",
+          "rest_types": ["short", "long"]
+        },
+        "attack_bonus": 0
+      }
+    ],
+    "actions": [
+      {
+        "name": "Tusks",
+        "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.",
+        "attack_bonus": 5,
+        "damage": [
+          {
+            "damage_type": {
+              "index": "slashing",
+              "name": "Slashing",
+              "url": "/api/damage-types/slashing"
+            },
+            "damage_dice": "2d6+3"
+          }
+        ]
+      }
+    ],
+    "url": "/api/monsters/wereboar-boar"
+  },
+  {
+    "index": "wereboar-human",
+    "name": "Wereboar, Human form",
+    "size": "Medium",
+    "type": "humanoid",
+    "subtype": "human",
+    "alignment": "neutral evil",
+    "armor_class": 10,
+    "hit_points": 78,
+    "hit_dice": "12d8",
+    "forms": [
+      {
+        "id": "wereboar-boar",
+        "name": "Wereboar, Boar Form",
+        "url": "/api/monsters/wereboar-boar"
+      },
+      {
+        "id": "wereboar-hybrid",
+        "name": "Wereboar, Hybrid Form",
+        "url": "/api/monsters/wereboar-hybrid"
+      }
+    ],
+    "speed": {
+      "walk": "30 ft."
+    },
     "strength": 17,
     "dexterity": 10,
     "constitution": 15,
@@ -36726,6 +37472,110 @@
     },
     "languages": "Common (can't speak in boar form)",
     "challenge_rating": 4,
+    "xp": 1100,
+    "special_abilities": [
+      {
+        "name": "Shapechanger",
+        "desc": "The wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+      },
+      {
+        "name": "Relentless",
+        "desc": "If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.",
+        "usage": {
+          "type": "recharge after rest",
+          "rest_types": ["short", "long"]
+        },
+        "attack_bonus": 0
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multiattack",
+        "desc": "The wereboar makes two attacks, only one of which can be with its tusks.",
+        "options": {
+          "choose": 1,
+          "from": [
+            [
+              {
+                "name": "Maul",
+                "count": 2,
+                "type": "melee"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "name": "Maul",
+        "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.",
+        "attack_bonus": 5,
+        "damage": [
+          {
+            "damage_type": {
+              "index": "bludgeoning",
+              "name": "Bludgeoning",
+              "url": "/api/damage-types/bludgeoning"
+            },
+            "damage_dice": "2d6+3"
+          }
+        ]
+      }
+    ],
+    "url": "/api/monsters/wereboar-human"
+  },
+  {
+    "index": "wereboar-hybrid",
+    "name": "Wereboar, Hybrid form",
+    "size": "Medium",
+    "type": "humanoid",
+    "subtype": "human",
+    "alignment": "neutral evil",
+    "armor_class": 10,
+    "hit_points": 78,
+    "hit_dice": "12d8",
+    "forms": [
+      {
+        "id": "wereboar-boar",
+        "name": "Wereboar, Boar Form",
+        "url": "/api/monsters/wereboar-boar"
+      },
+      {
+        "id": "wereboar-human",
+        "name": "Wereboar, Human Form",
+        "url": "/api/monsters/wereboar-human"
+      }
+    ],
+    "speed": {
+      "walk": "30 ft."
+    },
+    "strength": 17,
+    "dexterity": 10,
+    "constitution": 15,
+    "intelligence": 10,
+    "wisdom": 11,
+    "charisma": 8,
+    "proficiencies": [
+      {
+        "value": 2,
+        "proficiency": {
+          "index": "skill-perception",
+          "name": "Skill: Perception",
+          "url": "/api/proficiencies/skill-perception"
+        }
+      }
+    ],
+    "damage_vulnerabilities": [],
+    "damage_resistances": [],
+    "damage_immunities": [
+      "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
+    ],
+    "condition_immunities": [],
+    "senses": {
+      "passive_perception": 12
+    },
+    "languages": "Common",
+    "challenge_rating": 4,
+    "xp": 1100,
     "special_abilities": [
       {
         "name": "Shapechanger",
@@ -36747,11 +37597,35 @@
     ],
     "actions": [
       {
-        "name": "Multiattack (Humanoid or Hybrid Form Only)",
-        "desc": "The wereboar makes two attacks, only one of which can be with its tusks."
+        "name": "Multiattack",
+        "desc": "The wereboar makes two attacks, only one of which can be with its tusks.",
+        "options": {
+          "choose": 1,
+          "from": [
+            [
+              {
+                "name": "Maul",
+                "count": 2,
+                "type": "melee"
+              }
+            ],
+            [
+              {
+                "name": "Maul",
+                "count": 1,
+                "type": "melee"
+              },
+              {
+                "name": "Tusks",
+                "count": 1,
+                "type": "melee"
+              }
+            ]
+          ]
+        }
       },
       {
-        "name": "Maul (Humanoid or Hybrid Form Only)",
+        "name": "Maul",
         "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.",
         "attack_bonus": 5,
         "damage": [
@@ -36766,7 +37640,7 @@
         ]
       },
       {
-        "name": "Tusks (Boar or Hybrid Form Only)",
+        "name": "Tusks",
         "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.",
         "attack_bonus": 5,
         "damage": [
@@ -36781,11 +37655,11 @@
         ]
       }
     ],
-    "url": "/api/monsters/wereboar"
+    "url": "/api/monsters/wereboar-hybrid"
   },
   {
-    "index": "wererat",
-    "name": "Wererat",
+    "index": "wererat-human",
+    "name": "Wererat, Human form",
     "size": "Medium",
     "type": "humanoid",
     "subtype": "human",
@@ -36793,6 +37667,18 @@
     "armor_class": 12,
     "hit_points": 33,
     "hit_dice": "6d8",
+    "forms": [
+      {
+        "id": "wererat-hybrid",
+        "name": "Wererat, Hybrid Form",
+        "url": "/api/monsters/wererat-hybrid"
+      },
+      {
+        "id": "wererat-rat",
+        "name": "Wererat, Rat Form",
+        "url": "/api/monsters/wererat-rat"
+      }
+    ],
     "speed": {
       "walk": "30 ft."
     },
@@ -36827,11 +37713,11 @@
     ],
     "condition_immunities": [],
     "senses": {
-      "darkvision": "60 ft. (rat form only)",
       "passive_perception": 12
     },
-    "languages": "Common (can't speak in rat form)",
+    "languages": "Common",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Shapechanger",
@@ -36845,25 +37731,41 @@
     "actions": [
       {
         "name": "Multiattack (Humanoid or Hybrid Form Only)",
-        "desc": "The wererat makes two attacks, only one of which can be a bite."
+        "desc": "The wererat makes two attacks, only one of which can be a bite.",
+        "options": {
+          "choose": 1,
+          "from": [
+            [
+              {
+                "name": "Shortsword",
+                "count": 2,
+                "type": "melee"
+              }
+            ],
+            [
+              {
+                "name": "Hand Crossbow",
+                "count": 2,
+                "type": "ranged"
+              }
+            ],
+            [
+              {
+                "name": "Shortsword",
+                "count": 1,
+                "type": "melee"
+              },
+              {
+                "name": "Hand Crossbow",
+                "count": 1,
+                "type": "ranged"
+              }
+            ]
+          ]
+        }
       },
       {
-        "name": "Bite (Rat or Hybrid Form Only).",
-        "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy.",
-        "attack_bonus": 4,
-        "damage": [
-          {
-            "damage_type": {
-              "index": "piercing",
-              "name": "Piercing",
-              "url": "/api/damage-types/piercing"
-            },
-            "damage_dice": "1d4+2"
-          }
-        ]
-      },
-      {
-        "name": "Shortsword (Humanoid or Hybrid Form Only)",
+        "name": "Shortsword",
         "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
         "attack_bonus": 4,
         "damage": [
@@ -36878,7 +37780,7 @@
         ]
       },
       {
-        "name": "Hand Crossbow (Humanoid or Hybrid Form Only)",
+        "name": "Hand Crossbow",
         "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
         "attack_bonus": 4,
         "damage": [
@@ -36893,11 +37795,281 @@
         ]
       }
     ],
-    "url": "/api/monsters/wererat"
+    "url": "/api/monsters/wererat-human"
   },
   {
-    "index": "weretiger",
-    "name": "Weretiger",
+    "index": "wererat-hybrid",
+    "name": "Wererat, Hybrid form",
+    "size": "Medium",
+    "type": "humanoid",
+    "subtype": "human",
+    "alignment": "lawful evil",
+    "armor_class": 12,
+    "hit_points": 33,
+    "hit_dice": "6d8",
+    "forms": [
+      {
+        "id": "wererat-human",
+        "name": "Wererat, Human Form",
+        "url": "/api/monsters/wererat-human"
+      },
+      {
+        "id": "wererat-rat",
+        "name": "Wererat, Rat Form",
+        "url": "/api/monsters/wererat-rat"
+      }
+    ],
+    "speed": {
+      "walk": "30 ft."
+    },
+    "strength": 10,
+    "dexterity": 15,
+    "constitution": 12,
+    "intelligence": 11,
+    "wisdom": 10,
+    "charisma": 8,
+    "proficiencies": [
+      {
+        "value": 2,
+        "proficiency": {
+          "index": "skill-perception",
+          "name": "Skill: Perception",
+          "url": "/api/proficiencies/skill-perception"
+        }
+      },
+      {
+        "value": 4,
+        "proficiency": {
+          "index": "skill-stealth",
+          "name": "Skill: Stealth",
+          "url": "/api/proficiencies/skill-stealth"
+        }
+      }
+    ],
+    "damage_vulnerabilities": [],
+    "damage_resistances": [],
+    "damage_immunities": [
+      "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
+    ],
+    "condition_immunities": [],
+    "senses": {
+      "passive_perception": 12
+    },
+    "languages": "Common",
+    "challenge_rating": 2,
+    "xp": 450,
+    "special_abilities": [
+      {
+        "name": "Shapechanger",
+        "desc": "The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+      },
+      {
+        "name": "Keen Smell",
+        "desc": "The wererat has advantage on Wisdom (Perception) checks that rely on smell."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multiattack",
+        "desc": "The wererat makes two attacks, only one of which can be a bite.",
+        "options": {
+          "choose": 1,
+          "from": [
+            [
+              {
+                "name": "Shortsword",
+                "count": 2,
+                "type": "melee"
+              }
+            ],
+            [
+              {
+                "name": "Hand Crossbow",
+                "count": 2,
+                "type": "ranged"
+              }
+            ],
+            [
+              {
+                "name": "Shortsword",
+                "count": 1,
+                "type": "melee"
+              },
+              {
+                "name": "Hand Crossbow",
+                "count": 1,
+                "type": "ranged"
+              }
+            ],
+            [
+              {
+                "name": "Shortsword",
+                "count": 1,
+                "type": "melee"
+              },
+              {
+                "name": "Bite",
+                "count": 1,
+                "type": "melee"
+              }
+            ],
+            [
+              {
+                "name": "Hand Crossbow",
+                "count": 1,
+                "type": "ranged"
+              },
+              {
+                "name": "Bite",
+                "count": 1,
+                "type": "melee"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "name": "Bite",
+        "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy.",
+        "attack_bonus": 4,
+        "damage": [
+          {
+            "damage_type": {
+              "index": "piercing",
+              "name": "Piercing",
+              "url": "/api/damage-types/piercing"
+            },
+            "damage_dice": "1d4+2"
+          }
+        ]
+      },
+      {
+        "name": "Shortsword",
+        "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+        "attack_bonus": 4,
+        "damage": [
+          {
+            "damage_type": {
+              "index": "piercing",
+              "name": "Piercing",
+              "url": "/api/damage-types/piercing"
+            },
+            "damage_dice": "1d6+2"
+          }
+        ]
+      },
+      {
+        "name": "Hand Crossbow",
+        "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+        "attack_bonus": 4,
+        "damage": [
+          {
+            "damage_type": {
+              "index": "piercing",
+              "name": "Piercing",
+              "url": "/api/damage-types/piercing"
+            },
+            "damage_dice": "1d6+2"
+          }
+        ]
+      }
+    ],
+    "url": "/api/monsters/wererat-hybrid"
+  },
+  {
+    "index": "wererat-rat",
+    "name": "Wererat, Rat form",
+    "size": "Medium",
+    "type": "humanoid",
+    "subtype": "human",
+    "alignment": "lawful evil",
+    "armor_class": 12,
+    "hit_points": 33,
+    "hit_dice": "6d8",
+    "forms": [
+      {
+        "id": "wererat-human",
+        "name": "Wererat, Human Form",
+        "url": "/api/monsters/wererat-human"
+      },
+      {
+        "id": "wererat-hybrid",
+        "name": "Wererat, Hybrid Form",
+        "url": "/api/monsters/wererat-hybrid"
+      }
+    ],
+    "speed": {
+      "walk": "30 ft."
+    },
+    "strength": 10,
+    "dexterity": 15,
+    "constitution": 12,
+    "intelligence": 11,
+    "wisdom": 10,
+    "charisma": 8,
+    "proficiencies": [
+      {
+        "value": 2,
+        "proficiency": {
+          "index": "skill-perception",
+          "name": "Skill: Perception",
+          "url": "/api/proficiencies/skill-perception"
+        }
+      },
+      {
+        "value": 4,
+        "proficiency": {
+          "index": "skill-stealth",
+          "name": "Skill: Stealth",
+          "url": "/api/proficiencies/skill-stealth"
+        }
+      }
+    ],
+    "damage_vulnerabilities": [],
+    "damage_resistances": [],
+    "damage_immunities": [
+      "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
+    ],
+    "condition_immunities": [],
+    "senses": {
+      "darkvision": "60 ft.",
+      "passive_perception": 12
+    },
+    "languages": "",
+    "challenge_rating": 2,
+    "xp": 450,
+    "special_abilities": [
+      {
+        "name": "Shapechanger",
+        "desc": "The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+      },
+      {
+        "name": "Keen Smell",
+        "desc": "The wererat has advantage on Wisdom (Perception) checks that rely on smell."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Bite",
+        "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy.",
+        "attack_bonus": 4,
+        "damage": [
+          {
+            "damage_type": {
+              "index": "piercing",
+              "name": "Piercing",
+              "url": "/api/damage-types/piercing"
+            },
+            "damage_dice": "1d4+2"
+          }
+        ]
+      }
+    ],
+    "url": "/api/monsters/wererat-rat"
+  },
+  {
+    "index": "weretiger-human",
+    "name": "Weretiger, Human form",
     "size": "Medium",
     "type": "humanoid",
     "subtype": "human",
@@ -36905,17 +38077,21 @@
     "armor_class": 12,
     "hit_points": 120,
     "hit_dice": "16d8",
+    "forms": [
+      {
+        "id": "weretiger-hybrid",
+        "name": "Weretiger, Hybrid Form",
+        "url": "/api/monsters/weretiger-hybrid"
+      },
+      {
+        "id": "weretiger-tiger",
+        "name": "Weretiger, Tiger Form",
+        "url": "/api/monsters/weretiger-tiger"
+      }
+    ],
     "speed": {
       "walk": "30 ft."
     },
-    "other_speeds": [
-      {
-        "form": "tiger",
-        "speed": {
-          "walk": "40 ft."
-        }
-      }
-    ],
     "strength": 17,
     "dexterity": 15,
     "constitution": 16,
@@ -36950,8 +38126,9 @@
       "darkvision": "60 ft.",
       "passive_perception": 15
     },
-    "languages": "Common (can't speak in tiger form)",
+    "languages": "Common",
     "challenge_rating": 4,
+    "xp": 1100,
     "special_abilities": [
       {
         "name": "Shapechanger",
@@ -36960,49 +38137,34 @@
       {
         "name": "Keen Hearing and Smell",
         "desc": "The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell."
-      },
-      {
-        "name": "Pounce (Tiger or Hybrid Form Only)",
-        "desc": "If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action."
       }
     ],
     "actions": [
       {
-        "name": "Multiattack (Humanoid or Hybrid Form Only)",
-        "desc": "In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks."
+        "name": "Multiattack",
+        "desc": "In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.",
+        "options": {
+          "choose": 1,
+          "from": [
+            [
+              {
+                "name": "Scimitar",
+                "count": 2,
+                "type": "melee"
+              }
+            ],
+            [
+              {
+                "name": "Longbow",
+                "count": 2,
+                "type": "ranged"
+              }
+            ]
+          ]
+        }
       },
       {
-        "name": "Bite (Tiger or Hybrid Form Only)",
-        "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy.",
-        "attack_bonus": 5,
-        "damage": [
-          {
-            "damage_type": {
-              "index": "piercing",
-              "name": "Piercing",
-              "url": "/api/damage-types/piercing"
-            },
-            "damage_dice": "1d10+3"
-          }
-        ]
-      },
-      {
-        "name": "Claw (Tiger or Hybrid Form Only)",
-        "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.",
-        "attack_bonus": 5,
-        "damage": [
-          {
-            "damage_type": {
-              "index": "slashing",
-              "name": "Slashing",
-              "url": "/api/damage-types/slashing"
-            },
-            "damage_dice": "1d8+3"
-          }
-        ]
-      },
-      {
-        "name": "Scimitar (Humanoid or Hybrid Form Only)",
+        "name": "Scimitar",
         "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.",
         "attack_bonus": 5,
         "damage": [
@@ -37017,7 +38179,7 @@
         ]
       },
       {
-        "name": "Longbow (Humanoid or Hybrid Form Only)",
+        "name": "Longbow",
         "desc": "Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.",
         "attack_bonus": 4,
         "damage": [
@@ -37032,11 +38194,291 @@
         ]
       }
     ],
-    "url": "/api/monsters/weretiger"
+    "url": "/api/monsters/weretiger-human"
   },
   {
-    "index": "werewolf",
-    "name": "Werewolf",
+    "index": "weretiger-hybrid",
+    "name": "Weretiger, Hybrid form",
+    "size": "Medium",
+    "type": "humanoid",
+    "subtype": "human",
+    "alignment": "neutral",
+    "armor_class": 12,
+    "hit_points": 120,
+    "hit_dice": "16d8",
+    "forms": [
+      {
+        "id": "weretiger-human",
+        "name": "Weretiger, Human Form",
+        "url": "/api/monsters/weretiger-human"
+      },
+      {
+        "id": "weretiger-tiger",
+        "name": "Weretiger, Tiger Form",
+        "url": "/api/monsters/weretiger-tiger"
+      }
+    ],
+    "speed": {
+      "walk": "30 ft."
+    },
+    "strength": 17,
+    "dexterity": 15,
+    "constitution": 16,
+    "intelligence": 10,
+    "wisdom": 13,
+    "charisma": 11,
+    "proficiencies": [
+      {
+        "value": 5,
+        "proficiency": {
+          "index": "skill-perception",
+          "name": "Skill: Perception",
+          "url": "/api/proficiencies/skill-perception"
+        }
+      },
+      {
+        "value": 4,
+        "proficiency": {
+          "index": "skill-stealth",
+          "name": "Skill: Stealth",
+          "url": "/api/proficiencies/skill-stealth"
+        }
+      }
+    ],
+    "damage_vulnerabilities": [],
+    "damage_resistances": [],
+    "damage_immunities": [
+      "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
+    ],
+    "condition_immunities": [],
+    "senses": {
+      "darkvision": "60 ft.",
+      "passive_perception": 15
+    },
+    "languages": "Common",
+    "challenge_rating": 4,
+    "xp": 1100,
+    "special_abilities": [
+      {
+        "name": "Shapechanger",
+        "desc": "The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+      },
+      {
+        "name": "Keen Hearing and Smell",
+        "desc": "The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell."
+      },
+      {
+        "name": "Pounce",
+        "desc": "If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multiattack",
+        "desc": "In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.",
+        "options": {
+          "choose": 1,
+          "from": [
+            [
+              {
+                "name": "Scimitar",
+                "count": 2,
+                "type": "melee"
+              }
+            ],
+            [
+              {
+                "name": "Longbow",
+                "count": 2,
+                "type": "ranged"
+              }
+            ],
+            [
+              {
+                "name": "Claw",
+                "count": 2,
+                "type": "melee"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "name": "Bite",
+        "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy.",
+        "attack_bonus": 5,
+        "damage": [
+          {
+            "damage_type": {
+              "index": "piercing",
+              "name": "Piercing",
+              "url": "/api/damage-types/piercing"
+            },
+            "damage_dice": "1d10+3"
+          }
+        ]
+      },
+      {
+        "name": "Claw",
+        "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.",
+        "attack_bonus": 5,
+        "damage": [
+          {
+            "damage_type": {
+              "index": "slashing",
+              "name": "Slashing",
+              "url": "/api/damage-types/slashing"
+            },
+            "damage_dice": "1d8+3"
+          }
+        ]
+      },
+      {
+        "name": "Scimitar",
+        "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.",
+        "attack_bonus": 5,
+        "damage": [
+          {
+            "damage_type": {
+              "index": "slashing",
+              "name": "Slashing",
+              "url": "/api/damage-types/slashing"
+            },
+            "damage_dice": "1d6+3"
+          }
+        ]
+      },
+      {
+        "name": "Longbow",
+        "desc": "Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.",
+        "attack_bonus": 4,
+        "damage": [
+          {
+            "damage_type": {
+              "index": "piercing",
+              "name": "Piercing",
+              "url": "/api/damage-types/piercing"
+            },
+            "damage_dice": "1d8+2"
+          }
+        ]
+      }
+    ],
+    "url": "/api/monsters/weretiger-hybrid"
+  },
+  {
+    "index": "weretiger-tiger",
+    "name": "Weretiger, Tiger form",
+    "size": "Medium",
+    "type": "humanoid",
+    "subtype": "human",
+    "alignment": "neutral",
+    "armor_class": 12,
+    "hit_points": 120,
+    "hit_dice": "16d8",
+    "forms": [
+      {
+        "id": "weretiger-human",
+        "name": "Weretiger, Human Form",
+        "url": "/api/monsters/weretiger-human"
+      },
+      {
+        "id": "weretiger-hybrid",
+        "name": "Weretiger, Hybrid Form",
+        "url": "/api/monsters/weretiger-hybrid"
+      }
+    ],
+    "speed": {
+      "walk": "40 ft."
+    },
+    "strength": 17,
+    "dexterity": 15,
+    "constitution": 16,
+    "intelligence": 10,
+    "wisdom": 13,
+    "charisma": 11,
+    "proficiencies": [
+      {
+        "value": 5,
+        "proficiency": {
+          "index": "skill-perception",
+          "name": "Skill: Perception",
+          "url": "/api/proficiencies/skill-perception"
+        }
+      },
+      {
+        "value": 4,
+        "proficiency": {
+          "index": "skill-stealth",
+          "name": "Skill: Stealth",
+          "url": "/api/proficiencies/skill-stealth"
+        }
+      }
+    ],
+    "damage_vulnerabilities": [],
+    "damage_resistances": [],
+    "damage_immunities": [
+      "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
+    ],
+    "condition_immunities": [],
+    "senses": {
+      "darkvision": "60 ft.",
+      "passive_perception": 15
+    },
+    "languages": "",
+    "challenge_rating": 4,
+    "xp": 1100,
+    "special_abilities": [
+      {
+        "name": "Shapechanger",
+        "desc": "The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+      },
+      {
+        "name": "Keen Hearing and Smell",
+        "desc": "The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell."
+      },
+      {
+        "name": "Pounce",
+        "desc": "If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Bite",
+        "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy.",
+        "attack_bonus": 5,
+        "damage": [
+          {
+            "damage_type": {
+              "index": "piercing",
+              "name": "Piercing",
+              "url": "/api/damage-types/piercing"
+            },
+            "damage_dice": "1d10+3"
+          }
+        ]
+      },
+      {
+        "name": "Claw",
+        "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.",
+        "attack_bonus": 5,
+        "damage": [
+          {
+            "damage_type": {
+              "index": "slashing",
+              "name": "Slashing",
+              "url": "/api/damage-types/slashing"
+            },
+            "damage_dice": "1d8+3"
+          }
+        ]
+      }
+    ],
+    "url": "/api/monsters/weretiger-tiger"
+  },
+  {
+    "index": "werewolf-human",
+    "name": "Werewolf, Human form",
     "size": "Medium",
     "type": "humanoid",
     "subtype": "human",
@@ -37044,17 +38486,21 @@
     "armor_class": 11,
     "hit_points": 58,
     "hit_dice": "9d8",
+    "forms": [
+      {
+        "id": "werewolf-hybrid",
+        "name": "Werewolf, Hybrid Form",
+        "url": "/api/monsters/werewolf-hybrid"
+      },
+      {
+        "id": "werewolf-wolf",
+        "name": "Werewolf, Wolf Form",
+        "url": "/api/monsters/werewolf-wolf"
+      }
+    ],
     "speed": {
       "walk": "30 ft."
     },
-    "other_speeds": [
-      {
-        "form": "wolf",
-        "speed": {
-          "walk": "40 ft."
-        }
-      }
-    ],
     "strength": 15,
     "dexterity": 13,
     "constitution": 14,
@@ -37080,8 +38526,9 @@
     "senses": {
       "passive_perception": 14
     },
-    "languages": "Common (can't speak in wolf form)",
+    "languages": "Common",
     "challenge_rating": 3,
+    "xp": 700,
     "special_abilities": [
       {
         "name": "Shapechanger",
@@ -37094,41 +38541,23 @@
     ],
     "actions": [
       {
-        "name": "Multiattack (Humanoid or Hybrid Form Only)",
-        "desc": "The werewolf makes two attacks: one with its bite and one with its claws or spear."
+        "name": "Multiattack",
+        "desc": "The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (hybrid form).",
+        "options": {
+          "choose": 1,
+          "from": [
+            [
+              {
+                "name": "Spear",
+                "count": 2,
+                "type": "melee"
+              }
+            ]
+          ]
+        }
       },
       {
-        "name": "Bite (Wolf or Hybrid Form Only)",
-        "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.",
-        "attack_bonus": 4,
-        "damage": [
-          {
-            "damage_type": {
-              "index": "piercing",
-              "name": "Piercing",
-              "url": "/api/damage-types/piercing"
-            },
-            "damage_dice": "1d8+2"
-          }
-        ]
-      },
-      {
-        "name": "Claws (Hybrid Form Only)",
-        "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (2d4 + 2) slashing damage.",
-        "attack_bonus": 4,
-        "damage": [
-          {
-            "damage_type": {
-              "index": "slashing",
-              "name": "Slashing",
-              "url": "/api/damage-types/slashing"
-            },
-            "damage_dice": "2d4+2"
-          }
-        ]
-      },
-      {
-        "name": "Spear (Humanoid Form Only)",
+        "name": "Spear",
         "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.",
         "attack_bonus": 4,
         "damage": [
@@ -37157,7 +38586,207 @@
         ]
       }
     ],
-    "url": "/api/monsters/werewolf"
+    "url": "/api/monsters/werewolf-human"
+  },
+  {
+    "index": "werewolf-hybrid",
+    "name": "Werewolf, Hybrid form",
+    "size": "Medium",
+    "type": "humanoid",
+    "subtype": "human",
+    "alignment": "chaotic evil",
+    "armor_class": 11,
+    "hit_points": 58,
+    "hit_dice": "9d8",
+    "forms": [
+      {
+        "id": "werewolf-human",
+        "name": "Werewolf, Human Form",
+        "url": "/api/monsters/werewolf-human"
+      },
+      {
+        "id": "werewolf-wolf",
+        "name": "Werewolf, Wolf Form",
+        "url": "/api/monsters/werewolf-wolf"
+      }
+    ],
+    "speed": {
+      "walk": "30 ft."
+    },
+    "strength": 15,
+    "dexterity": 13,
+    "constitution": 14,
+    "intelligence": 10,
+    "wisdom": 11,
+    "charisma": 10,
+    "proficiencies": [
+      {
+        "value": 4,
+        "proficiency": {
+          "index": "skill-perception",
+          "name": "Skill: Perception",
+          "url": "/api/proficiencies/skill-perception"
+        }
+      }
+    ],
+    "damage_vulnerabilities": [],
+    "damage_resistances": [],
+    "damage_immunities": [
+      "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
+    ],
+    "condition_immunities": [],
+    "senses": {
+      "passive_perception": 14
+    },
+    "languages": "Common",
+    "challenge_rating": 3,
+    "xp": 700,
+    "special_abilities": [
+      {
+        "name": "Shapechanger",
+        "desc": "The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+      },
+      {
+        "name": "Keen Hearing and Smell",
+        "desc": "The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multiattack",
+        "desc": "The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (hybrid form).",
+        "options": {
+          "choose": 1,
+          "from": [
+            [
+              {
+                "name": "Bite",
+                "count": 1,
+                "type": "melee"
+              },
+              {
+                "name": "Claws",
+                "count": 1,
+                "type": "melee"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "name": "Bite",
+        "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.",
+        "attack_bonus": 4,
+        "damage": [
+          {
+            "damage_type": {
+              "index": "piercing",
+              "name": "Piercing",
+              "url": "/api/damage-types/piercing"
+            },
+            "damage_dice": "1d8+2"
+          }
+        ]
+      },
+      {
+        "name": "Claws",
+        "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (2d4 + 2) slashing damage.",
+        "attack_bonus": 4,
+        "damage": [
+          {
+            "damage_type": {
+              "index": "slashing",
+              "name": "Slashing",
+              "url": "/api/damage-types/slashing"
+            },
+            "damage_dice": "2d4+2"
+          }
+        ]
+      }
+    ],
+    "url": "/api/monsters/werewolf-hybrid"
+  },
+  {
+    "index": "werewolf-wolf",
+    "name": "Werewolf, Wolf form",
+    "size": "Medium",
+    "type": "humanoid",
+    "subtype": "human",
+    "alignment": "chaotic evil",
+    "armor_class": 11,
+    "hit_points": 58,
+    "hit_dice": "9d8",
+    "forms": [
+      {
+        "id": "werewolf-human",
+        "name": "Werewolf, Human Form",
+        "url": "/api/monsters/werewolf-human"
+      },
+      {
+        "id": "werewolf-hybrid",
+        "name": "Werewolf, Hybrid Form",
+        "url": "/api/monsters/werewolf-hybrid"
+      }
+    ],
+    "speed": {
+      "walk": "40 ft."
+    },
+    "strength": 15,
+    "dexterity": 13,
+    "constitution": 14,
+    "intelligence": 10,
+    "wisdom": 11,
+    "charisma": 10,
+    "proficiencies": [
+      {
+        "value": 4,
+        "proficiency": {
+          "index": "skill-perception",
+          "name": "Skill: Perception",
+          "url": "/api/proficiencies/skill-perception"
+        }
+      }
+    ],
+    "damage_vulnerabilities": [],
+    "damage_resistances": [],
+    "damage_immunities": [
+      "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
+    ],
+    "condition_immunities": [],
+    "senses": {
+      "passive_perception": 14
+    },
+    "languages": "",
+    "challenge_rating": 3,
+    "xp": 700,
+    "special_abilities": [
+      {
+        "name": "Shapechanger",
+        "desc": "The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+      },
+      {
+        "name": "Keen Hearing and Smell",
+        "desc": "The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Bite",
+        "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.",
+        "attack_bonus": 4,
+        "damage": [
+          {
+            "damage_type": {
+              "index": "piercing",
+              "name": "Piercing",
+              "url": "/api/damage-types/piercing"
+            },
+            "damage_dice": "1d8+2"
+          }
+        ]
+      }
+    ],
+    "url": "/api/monsters/werewolf-wolf"
   },
   {
     "index": "white-dragon-wyrmling",
@@ -37242,6 +38871,7 @@
     },
     "languages": "Draconic",
     "challenge_rating": 2,
+    "xp": 450,
     "actions": [
       {
         "name": "Bite",
@@ -37335,12 +38965,17 @@
       }
     ],
     "damage_vulnerabilities": [],
-    "damage_resistances": [],
-    "damage_immunities": [
+    "damage_resistances": [
       "necrotic",
       "bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
     ],
+    "damage_immunities": ["poison"],
     "condition_immunities": [
+      {
+        "index": "exhaustion",
+        "name": "Exhaustion",
+        "url": "/api/conditions/exhaustion"
+      },
       {
         "index": "poisoned",
         "name": "Poisoned",
@@ -37353,6 +38988,7 @@
     },
     "languages": "the languages it knew in life",
     "challenge_rating": 3,
+    "xp": 700,
     "special_abilities": [
       {
         "name": "Sunlight Sensitivity",
@@ -37532,6 +39168,7 @@
     },
     "languages": "the languages it knew in life",
     "challenge_rating": 2,
+    "xp": 450,
     "special_abilities": [
       {
         "name": "Consume Life",
@@ -37628,6 +39265,7 @@
     },
     "languages": "Common, Giant, Winter Wolf",
     "challenge_rating": 3,
+    "xp": 700,
     "special_abilities": [
       {
         "name": "Keen Hearing and Smell",
@@ -37735,6 +39373,7 @@
     },
     "languages": "",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Keen Hearing and Smell",
@@ -37803,6 +39442,7 @@
     },
     "languages": "Goblin, Worg",
     "challenge_rating": 0.5,
+    "xp": 100,
     "special_abilities": [
       {
         "name": "Keen Hearing and Smell",
@@ -37908,6 +39548,7 @@
     },
     "languages": "the languages it knew in life",
     "challenge_rating": 5,
+    "xp": 1800,
     "special_abilities": [
       {
         "name": "Incorporeal Movement",
@@ -37981,6 +39622,7 @@
     },
     "languages": "",
     "challenge_rating": 6,
+    "xp": 2300,
     "actions": [
       {
         "name": "Multiattack",
@@ -38003,13 +39645,13 @@
             [
               {
                 "name": "Bite",
-                "note": "If flying",
+                "notes": "If flying",
                 "count": 1,
                 "type": "melee"
               },
               {
                 "name": "Claws",
-                "note": "If flying",
+                "notes": "If flying",
                 "count": 1,
                 "type": "melee"
               }
@@ -38017,13 +39659,13 @@
             [
               {
                 "name": "Stinger",
-                "note": "If flying",
+                "notes": "If flying",
                 "count": 1,
                 "type": "melee"
               },
               {
                 "name": "Claws",
-                "note": "If flying",
+                "notes": "If flying",
                 "count": 1,
                 "type": "melee"
               }
@@ -38130,6 +39772,7 @@
     },
     "languages": "Terran",
     "challenge_rating": 5,
+    "xp": 18000,
     "special_abilities": [
       {
         "name": "Earth Glide",
@@ -38281,6 +39924,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 7,
+    "xp": 2900,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -38460,6 +40104,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 9,
+    "xp": 5000,
     "actions": [
       {
         "name": "Multiattack",
@@ -38641,6 +40286,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 6,
+    "xp": 2300,
     "actions": [
       {
         "name": "Multiattack",
@@ -38835,6 +40481,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 8,
+    "xp": 3900,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -39035,6 +40682,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 7,
+    "xp": 2900,
     "actions": [
       {
         "name": "Multiattack",
@@ -39237,6 +40885,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 10,
+    "xp": 5900,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -39443,6 +41092,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 8,
+    "xp": 3900,
     "special_abilities": [
       {
         "name": "Amphibious",
@@ -39622,6 +41272,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 10,
+    "xp": 5900,
     "actions": [
       {
         "name": "Multiattack",
@@ -39810,6 +41461,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 9,
+    "xp": 5000,
     "actions": [
       {
         "name": "Multiattack",
@@ -39997,6 +41649,7 @@
     },
     "languages": "Common, Draconic",
     "challenge_rating": 6,
+    "xp": 2300,
     "special_abilities": [
       {
         "name": "Ice Walk",
@@ -40139,6 +41792,7 @@
     },
     "languages": "understands all languages it spoke in life but can't speak",
     "challenge_rating": 0.25,
+    "xp": 50,
     "special_abilities": [
       {
         "name": "Undead Fortitude",
